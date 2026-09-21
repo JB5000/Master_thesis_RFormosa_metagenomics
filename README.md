@@ -7,14 +7,12 @@ analysis inputs and portable scripts.
 ## Repository map
 
 - `01_FIGURES/final/` — the 24 final PNG figure assets.
-- `01_FIGURES/gallery/` — a local HTML viewer for those same assets. It is
-  only an index; it is not a second figure collection.
 - `02_REPRODUCIBILITY/` — figure source matrices, plotted-value tables,
   generation scripts, software/database versions and recovered commands.
 - `03_CORE_ANALYSIS_DATA/` — sampling, read QC, taxonomy, assembly/binning,
   MAG29, recruitment, functional and CoA4 data.
-- `04_RECENT_FINAL_ANALYSES/` — the recent rarefaction, sumTraits, Proksee
-  and Flye/Bandage analyses with their inputs and provenance.
+- `04_SUPPLEMENTARY_ANALYSES/` — rarefaction, sumTraits, Proksee and
+  Flye/Bandage analyses with their inputs and provenance.
 - `05_METHODS_AND_VALIDATION/` — BLASTn target-screen outputs and relevant
   workflow/provenance records.
 - `06_RESULT_TABLES/` — descriptive result tables and exact plotted-value
