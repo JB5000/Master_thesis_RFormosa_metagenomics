@@ -1,4 +1,4 @@
-component	recovered_evidence	status	handling_notes
+component	evidence_source	status	handling_notes
 workflow	porTraits v0.2.1, a metaTraits workflow, executed through CloWM	AUTHOR_CONFIRMED+PRIMARY	Cite CloWM workflow v0.2.1 and the retained workflow crate.
 trait_prediction_table	Primary per-genome predictions plus collated portraits_results.tsv.gz for MAG29 and CoA4	PRIMARY	Cite the retained GenomeSPOT component outputs.
 software_name	GenomeSPOT 1.0.1	PRIMARY	Version is recorded in both collated primary output tables; the exact internal model/database release was not separately retained.

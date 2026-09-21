@@ -1,6 +1,6 @@
 original_or_previous_claim	status	final_authoritative_wording	evidence
 Recruitment minimap2 version not retained	RESOLVED	minimap2 v2.17-r941 with map-ont	All 138 minimap2 logs and representative BAM @PG headers record 2.17-r941.
-Recruitment samtools version not retained	RESOLVED	samtools v1.9 for view/sort/index/idxstats	Recovered job scripts use the fixed ${HPC_SOFTWARE_ROOT}/bin/samtools executable, verified as samtools/htslib 1.9.
-Coverage samtools version	RESOLVED	samtools v1.23 only for the 13 July 2026 coverage regeneration	Retained coverage-regeneration provenance and completed recovered job.
+Recruitment samtools version not retained	RESOLVED	samtools v1.9 for view/sort/index/idxstats	Mapping scripts use a configurable samtools executable, verified as samtools/htslib 1.9.
+Coverage samtools version	RESOLVED	samtools v1.23 only for the 13 July 2026 coverage regeneration	Coverage-regeneration provenance and completed run are retained.
 porTraits workflow	RESOLVED	porTraits/metaTraits workflow v0.2.1 through CloWM; GenomeSPOT component v1.0.1	Author screenshot, workflow UUID/version resource, retained workflow crate and all 33 primary predictions.
 PCoA implementation branch	RESOLVED_FOR_CURRENT_REPRODUCTION	skbio.stats.ordination.pcoa reconstruction reproduces archived coordinates exactly	Retained reproducibility README and canonical coordinate tables.

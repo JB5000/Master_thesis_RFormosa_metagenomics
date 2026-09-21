@@ -12,7 +12,7 @@ genome binning	MetaBAT2	2.17	nf-core/mag binning layer
 genome binning	MetaBinner	1.4.4	nf-core/mag binning layer
 genome binning	SemiBin2	2.2.0	nf-core/mag binning layer
 bin refinement	DAS Tool	1.1.7	refined_bins_only
-genome quality	CheckM2	1.1.0	uniref100.KO.1.dmnd; exact database release/hash not recovered
+genome quality	CheckM2	1.1.0	uniref100.KO.1.dmnd; exact database release/hash not recorded
 complementary genome QC	GUNC	1.0.6	progenomes 2.1
 dereplication	dRep	3.6.2	-comp 90; -con 5; -l 50000; -pa 0.9; -sa 0.95; -nc 0.1; fastANI
 taxonomy	GTDB-Tk	2.5.2	GTDB release r226; bac120 classify_wf
@@ -24,7 +24,7 @@ trait prediction	porTraits via CloWM	0.2.1; workflow code commit 076c8b418c0bc69
 recruitment mapping	minimap2	2.17-r941	map-ont
 recruitment alignment processing	samtools	1.9	view/sort/index/idxstats
 recruitment coverage regeneration	samtools	1.23	coverage subcommand
-equal-depth subsampling	SeqKit	exact runtime version not recovered	sample -s <seed> -n 315147
+equal-depth subsampling	SeqKit	exact runtime version not recorded	sample -s <seed> -n 315147
 equal-depth read profiling	nf-core/taxprofiler	1.2.4; Nextflow 25.04.4	69 profiles: 23 samples x 3 equal-depth subsets
 equal-depth read classifier	KrakenUniq	1.0.4	krakenUniq_20220616_standard
 full-depth read classifier	KrakenUniq	1.0.4 (inferred from the retained taxprofiler installation)	krakenUniq_20220616_standard

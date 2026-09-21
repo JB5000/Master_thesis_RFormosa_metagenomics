@@ -8,7 +8,7 @@ analysis inputs and portable scripts.
 
 - `01_FIGURES/final/` — the 24 final PNG figure assets.
 - `02_REPRODUCIBILITY/` — figure source matrices, plotted-value tables,
-  generation scripts, software/database versions and recovered commands.
+  generation scripts, software/database versions and recorded commands.
 - `03_CORE_ANALYSIS_DATA/` — sampling, read QC, taxonomy, assembly/binning,
   MAG29, recruitment, functional and CoA4 data.
 - `04_SUPPLEMENTARY_ANALYSES/` — rarefaction, sumTraits, Proksee and
@@ -19,6 +19,8 @@ analysis inputs and portable scripts.
   matrices.
 - `ASSET_MANIFEST.tsv` — one row per final figure or result table, linking it
   to source data and (where applicable) its generation script.
+- `02_REPRODUCIBILITY/METHOD_COMMANDS.md` — concise commands and parameters
+  for the retained analyses.
 
 ## Canonical analysis constants
 

@@ -1,6 +1,6 @@
 # CoA4 primary hAMRonization/RGI ARG outputs
 
-Source on institutional HPC:
+Source on retained run records:
 `${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/02_coassembly_drep/06_funcscan/results/arg/hamronization/rgi/`
 
 The combined CoA4 hAMRonization report was not retained. Per-representative tables are retained.

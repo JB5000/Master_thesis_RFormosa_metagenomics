@@ -20,7 +20,7 @@ files and MinKNOW run folders were not retained. Therefore, assignment of the
 second barcoded sample in SOV1 and the exact procedure for that loading cannot
 be verified from this bundle alone.
 
-## Recovery requirement
+## Additional run metadata
 
-A sequencing-summary file or MinKNOW run report is required to recover
-flow-cell ID, run ID, barcode arrangement and per-read timing.
+A sequencing-summary file or MinKNOW run report would add the flow-cell ID,
+run ID, barcode arrangement and per-read timing to the retained metadata.

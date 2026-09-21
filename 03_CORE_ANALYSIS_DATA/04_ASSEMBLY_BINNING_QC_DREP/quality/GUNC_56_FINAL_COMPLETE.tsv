@@ -17,18 +17,18 @@ MG221021	run_20260418_024525	FLYE-MetaBinnerRefined-group-group_221021.3.fa	92.6
 MG221021	run_20260418_024525	METAMDBG-MetaBinnerRefined-group-group_221021.1.fa	95.28	1.58	PASS	No	CheckM2 (>=90% comp, <=5% cont)
 MG221021	run_20260418_024525	METAMDBG-MetaBinnerRefined-group-group_221021.2.fa	92.23	4.19	PASS	No	CheckM2 (>=90% comp, <=5% cont)
 MG221021	run_20260418_024525	METAMDBG-SemiBin2Refined-group-group_221021.1.fa	96.61	4.28	PASS	No	CheckM2 (>=90% comp, <=5% cont)
-MG240416	run_20260601_144953	FLYE-CONCOCTRefined-group-group_240416.29.fa	95.56	1.24	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-CONCOCTRefined-group-group_240416.290.fa	96.92	0.92	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-MaxBin2Refined-group-group_240416.034.fa	93.06	4.47	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.100.fa	95.54	1.13	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.203.fa	92.0	2.77	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.419.fa	92.97	0.48	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.579.fa	99.59	1.49	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.71.fa	95.62	1.96	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.722.fa	98.48	0.59	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.82.fa	94.95	0.75	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.820.fa	97.17	2.76	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.833.fa	93.25	3.85	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-CONCOCTRefined-group-group_240416.29.fa	95.56	1.24	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-CONCOCTRefined-group-group_240416.290.fa	96.92	0.92	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-MaxBin2Refined-group-group_240416.034.fa	93.06	4.47	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.100.fa	95.54	1.13	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.203.fa	92.0	2.77	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.419.fa	92.97	0.48	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.579.fa	99.59	1.49	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.71.fa	95.62	1.96	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.722.fa	98.48	0.59	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.82.fa	94.95	0.75	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.820.fa	97.17	2.76	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.833.fa	93.25	3.85	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
 MG240416	run_20260601_144953	METAMDBG-CONCOCTRefined-group-group_240416.113.fa	91.31	4.85	PASS	No	CheckM2 (>=90% comp, <=5% cont)
 MG240416	run_20260601_144953	METAMDBG-CONCOCTRefined-group-group_240416.97.fa	96.55	3.21	PASS	No	CheckM2 (>=90% comp, <=5% cont)
 MG240416	run_20260601_144953	METAMDBG-MaxBin2Refined-group-group_240416.001.fa	94.01	0.05	PASS	No	CheckM2 (>=90% comp, <=5% cont)
@@ -53,5 +53,5 @@ MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.896_sub
 MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.900.fa	96.98	3.52	PASS	No	CheckM2 (>=90% comp, <=5% cont)
 MG240416	run_20260601_144953	METAMDBG-MetaBinnerRefined-group-group_240416.1.fa	99.61	1.78	PASS	No	CheckM2 (>=90% comp, <=5% cont)
 MG240416	run_20260601_144953	METAMDBG-MetaBinnerRefined-group-group_240416.2.fa	97.01	2.76	PASS	No	CheckM2 (>=90% comp, <=5% cont)
-MG240416	run_20260601_144953	METAMDBG-MetaBinnerRefined-group-group_240416.5.fa	99.2	1.51	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
-MG240416	run_20260601_144953	METAMDBG-MetaBinnerRefined-group-group_240416.6.fa	95.41	3.41	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC recovered 2026-07-14 from MG240416 gunc_summary; pass.GUNC=True]
+MG240416	run_20260601_144953	METAMDBG-MetaBinnerRefined-group-group_240416.5.fa	99.2	1.51	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]
+MG240416	run_20260601_144953	METAMDBG-MetaBinnerRefined-group-group_240416.6.fa	95.41	3.41	PASS	No	CheckM2 (>=90% comp, <=5% cont)	 [GUNC source record dated 2026-07-14; pass.GUNC=True]

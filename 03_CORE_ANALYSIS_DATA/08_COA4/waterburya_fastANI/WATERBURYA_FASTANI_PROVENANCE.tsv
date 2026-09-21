@@ -1,7 +1,7 @@
 field	value	evidence
-tool	fastANI	institutional HPC ${PROJECT_HOME}/.conda/envs/drep-magdb/bin/fastANI
+tool	fastANI	retained run records ${PROJECT_HOME}/.conda/envs/drep-magdb/bin/fastANI
 version	1.34	"fastANI --version -> ""version 1.34"""
-command	fastANI --ql query_list.txt --rl ref_list.txt -o waterburya_fastani_results.tsv	reconstructed from the retained query_list.txt + ref_list.txt + output (all recovered from institutional HPC 08_waterburya_comparison/fastani, 2026-06-21)
+command	fastANI --ql query_list.txt --rl ref_list.txt -o waterburya_fastani_results.tsv	derived from the retained query_list.txt, ref_list.txt and output (2026-06-21)
 default_fragment_length	fastANI default (fragment counts imply ~1 kb fragments); aligned fraction reported as count_bidirectional_fragment_mappings / total_query_fragments	waterburya_fastani_results.tsv columns 4 and 5
 queries	2 CoA representatives	query_list.txt
 query_CoA3	METAMDBG-MetaBinnerRefined-group-group_2025_4samples.1.fa	from 34_HQ4_COASSEMBLY_DREP_GTDBTK_BRANCH/.../dereplicated_genomes/

@@ -1,6 +1,6 @@
-# Supplementary Methods — recovered commands and parameters
+# Method commands and parameters
 
-This appendix records only command text recovered from scripts/logs. Private absolute paths are intentionally replaced with placeholders. A command being listed does not prove that every later table or figure was derived from that run; such limits are recorded in the layer-specific provenance tables.
+This file records the commands and parameters used for the retained analyses. Private absolute paths are represented by configurable placeholders.
 
 ## Single-sample nf-core/mag (23 independent runs)
 
@@ -34,7 +34,7 @@ gtdbtk classify_wf --batchfile <gtdbtk_batchfile.tsv> \
   --out_dir <gtdbtk_out> --cpus 16
 ```
 
-The recovered environment used GTDB-Tk 2.5.2 with GTDB r226.
+The recorded environment used GTDB-Tk 2.5.2 with GTDB r226.
 
 ## Mapping-based recruitment
 
@@ -46,7 +46,7 @@ samtools index <sample.bam>
 samtools idxstats <sample.bam>
 ```
 
-No percent-identity or aligned-fraction threshold occurs in the recovered mapping command.
+No percent-identity or aligned-fraction threshold occurs in the mapping command.
 
 ## VFDB similarity screening
 
@@ -91,7 +91,7 @@ nextflow run nf-core/taxprofiler -r 1.2.4 -profile apptainer \
 
 ## Full-depth TaxProfiler QC and KrakenUniq
 
-The recovered 23-library run used nf-core/taxprofiler 1.2.4 with Nextflow
+The 23-library run used nf-core/taxprofiler 1.2.4 with Nextflow
 25.04.4, nanoq 0.10.0 and KrakenUniq 1.0.4. Its portable equivalent is:
 
 ```bash
