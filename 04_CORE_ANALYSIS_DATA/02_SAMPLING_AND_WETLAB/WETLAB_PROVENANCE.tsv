@@ -1,0 +1,20 @@
+fact_id	section	statement	evidence_status	evidence_source	note
+W01	2.1 sampling	Sampling followed the EMO BON Soft Sediment SOP (SoSOP 1), except that two 50-mm-diameter PVC cores were used instead of the >=10-cm corers.	AUTHOR_CONFIRMED	author 2026-07-13	deviation from SoSOP 1 to be stated explicitly
+W02	2.1 sampling	All remaining sampling and preservation steps followed SoSOP 1.	AUTHOR_CONFIRMED	author 2026-07-13
+W03	2.1 controls	EMO BON negative controls existed, but NONE was carried through the long-read extraction/library/sequencing/analysis workflow.	AUTHOR_CONFIRMED	author 2026-07-13	state that no negative control propagated to the long-read data
+W04	2.2 extraction	Pre-extraction spin-down was 8,000 rpm for ~3 s and the supernatant was DISCARDED.	AUTHOR_CONFIRMED	author 2026-07-13; photo protocol_02	RESOLVES CONFLICT: the handwritten "8000 RPM 2 min / pool supernatant" note (protocol_02) is an incorrect planning note per the author -> use ~3 s, supernatant discarded
+W05	2.2 extraction	Approximately 250 mg of sediment was extracted.	PRIMARY	photo protocol_02 ("~250 mg"); author
+W06	2.2 extraction	DNA was eluted in 60 uL Solution C6.	PRIMARY	photo protocol_03 ("~60 ul"); author
+W07	2.2 extraction	Subsequent extraction centrifugations used up to 13,200 rpm.	PRIMARY	photo protocol_03 ("13200 RPM"); author	replaces the printed 15,000-16,000 x g
+W08	2.2 storage	Extracted DNA was stored at ~4 C for three days.	AUTHOR_CONFIRMED	author 2026-07-13
+W09	2.3 library	Twenty-two samples were natively barcoded.	PRIMARY	photo protocol_01 (extraction sheet; 210805 & 240416 crossed out); BARCODE_SAMPLE_MAPPING.tsv
+W10	2.3 library	The DNA Control Sample (DCS) was omitted and replaced with sample DNA.	PRIMARY	photo protocol_04; author	RESOLVES CONFLICT vs any "DCS used" wording
+W11	2.3 library	First clean-up elution used 8 uL rather than 10 uL.	AUTHOR_CONFIRMED	author 2026-07-13
+W12	2.3 library	Pooled volume was 528 uL and 220 uL AMPure XP beads were used.	PRIMARY	photo protocol_06 ("528 ul", "220 ul"); author	22-sample scaling
+W13	2.3 library	Later elutions/resuspensions include 31 uL and 33 uL.	PASS_WITH_CAVEAT	photos protocol_07/08/09 ("31", "33"); author	confirm the exact protocol stage of each from the notes if needed
+W14	2.4 sequencing	Final pooled-library concentration recorded in the protocol notes was 47.2 ng/uL.	PRIMARY	photo protocol_10 ("47,2 ng/ul")
+W15	2.4 sequencing	Main loading notes record 6.4 uL library plus 25.6 uL water.	PRIMARY	photo protocol_11 ("6,4 ul (47,2 ng/ul) + 25,6 ul H2O")
+W16	2.4 sequencing	A "second run" loading note records ~5 uL library + ~27 uL water.	PASS_WITH_CAVEAT	photo protocol_11 ("2a run 5 ul", "2a run 27 ul")	VERIFY whether this "second run" corresponds to the SOV3 flow-cell loading
+W17	2.2 quantification	DNA was quantified (this resolves any "no Qubit" ambiguity: NanoDrop for dsDNA; Qubit used at library QC).	PRIMARY	NanoDrop: photo protocol_01 + instrument_equipment_photos/equip_05,07; Qubit: photos protocol_08/09 ("1 ul para o Qubit")	RESOLVES CONFLICT: Qubit WAS used (library-prep QC), NanoDrop for gDNA
+W18	2.x equipment	Instruments are identified (not "unknown").	PRIMARY	instrument_equipment_photos/	RESOLVES CONFLICT: PromethION 2 Solo (SN P2S-02226, MinKNOW 26.01.15), NanoDrop One^C (SN AZY1810751), Retsch MM400, ABI 2720, Eppendorf 5804
+W19	2.1 thawing	Frozen sediment handling before extraction.	OPEN	prior wetlab addendum says -80 -> -20 overnight -> thaw ~5 C	CONFLICT NOT FULLY RESOLVED (refrigerated vs ambient thaw); author to confirm the exact thaw temperature

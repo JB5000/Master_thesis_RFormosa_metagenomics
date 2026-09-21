@@ -1,0 +1,13 @@
+file	type	role
+2026-05-19-eLabFTW-PDF.pdf	pdf	eLabFTW experiment export "DNA-from-sample-to-fastq" (id 5367e55d) — full wet-lab record
+amostra to barcode.xlsx	xlsx	sample -> native barcode assignment (working sheet)
+barcode_sample_mapping.tsv	tsv	sample -> barcode mapping (parsed, machine-readable)
+DNA extraction number sheet.xlsx	xlsx	DNA extraction batch/number tracking sheet
+image-1772805284419.jpg	jpg	wet-lab bench/protocol photo
+image-1772810591101.jpg	jpg	wet-lab bench/protocol photo
+IMG_20260306_171530.jpg	jpg	wet-lab photo (2026-03-06)
+ligation-sequencing-gdna-native-barcoding-v14-sqk-nbd114-24-document-checklist-PromethION-en-NBE_9169_v114_revW_03Oct2025-42.pdf	pdf	ONT native barcoding v14 (SQK-NBD114-24) PromethION checklist rev W (03 Oct 2025)
+Nova tabela para guiar em nanopore versão corrigida (1).xlsx	xlsx	corrected Nanopore run-planning guide table
+Pasted image.png	png	protocol/screenshot image
+IMG (WhatsApp)	jpeg	wet-lab photo (if present)
+note	-	source: ${LOCAL_WORKSPACE}/Desktop/pasta para a tese/0_export.elabftw/DNA-from-sample-to-fastq - 5367e55d ; supports Methods 2.1-2.5 (sample-to-FASTQ wet lab)

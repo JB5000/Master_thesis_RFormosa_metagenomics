@@ -1,0 +1,41 @@
+
+
+Nanoq Read Summary
+====================
+
+Number of reads:      824730
+Number of bases:      7048193435
+N50 read length:      11338
+Longest read:         96222 
+Shortest read:        1000
+Mean read length:     8546
+Median read length:   7131 
+Mean read quality:    21.76 
+Median read quality:  22.49
+
+
+Read length thresholds (bp)
+
+> 200       824730            100.0%
+> 500       824730            100.0%
+> 1000      824685            100.0%
+> 2000      784245            95.1%
+> 5000      553189            67.1%
+> 10000     266314            32.3%
+> 30000     4337              00.5%
+> 50000     179               00.0%
+> 100000    0                 00.0%
+> 1000000   0                 00.0%
+
+
+Read quality thresholds (Q)
+
+> 5   824730        100.0%
+> 7   824730        100.0%
+> 10  792422        96.1%
+> 12  778624        94.4%
+> 15  749142        90.8%
+> 20  588556        71.4%
+> 25  202664        24.6%
+> 30  15231         01.8%
+

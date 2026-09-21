@@ -1,0 +1,6 @@
+component	value	evidence_level	evidence_location	status	note
+input	Genus-level relative-abundance profiles, averaged over three equal-depth subsamples	PRIMARY	figure_sources/pcoa	PASS	See retained canonical inputs.
+dissimilarity	Bray-Curtis	PRIMARY	figure_sources/pcoa/eqdepth_mean23_bray_curtis_distance_matrix.tsv	PASS	
+ordination	PCoA using skbio.stats.ordination.pcoa	PRIMARY	figure_sources/pcoa/REPRODUCIBILITY_README.md	PASS	The retained reconstruction reproduces the archived canonical coordinates exactly: |r(PC1)| = |r(PC2)| = 1.00000.
+alternative_compositional_analysis	CLR/Aitchison with pseudocount 0.5	PRIMARY	retained analysis provenance	PASS	Report separately from Bray-Curtis PCoA.
+group_tests	PERMANOVA and PERMDISP with 999 permutations by year	PRIMARY	figure_sources/pcoa/permanova_permdisp_comparisons.tsv	PASS	Only claim results when the associated output table is cited.

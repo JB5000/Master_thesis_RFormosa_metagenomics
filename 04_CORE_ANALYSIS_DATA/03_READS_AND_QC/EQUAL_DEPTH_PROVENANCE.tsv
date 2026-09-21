@@ -1,0 +1,7 @@
+item	value	evidence_level	status	note
+samples	23	PRIMARY	PASS	All samples represented.
+technical_subsamples_per_sample	3	PRIMARY	PASS	69 total FASTQ/profile units.
+target_reads	315147	PRIMARY	PASS	Minimum usable input read count selected in manifest.
+seeds	Recorded separately for every task in tasks.tsv	PRIMARY	PASS	Deterministic `seqkit sample -s` seeds; preserve task manifest for exact replication.
+read_count_validation	Count checked after sampling	PRIMARY	PASS	Implemented in task script.
+sensitivity_comparison	Raw versus equal-depth agreement reported in project analysis outputs	SECONDARY	PASS_WITH_CAVEAT	May be discussed as a sensitivity check only after table/figure-specific source confirmation.

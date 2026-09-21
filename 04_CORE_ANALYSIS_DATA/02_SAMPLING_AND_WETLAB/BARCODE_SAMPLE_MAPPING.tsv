@@ -1,0 +1,23 @@
+barcode	barcode_number	sample_number	sample_id	sample_name	fastq_1	fastq_exists
+barcode01	1	11	EMO_BON_RFormosa_SO_211022_micro4	EMO BON RFormosa SO 211022 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode01.fastq.gz	True
+barcode02	2	10	EMO_BON_RFormosa_SO_240304_micro4	EMO BON RFormosa SO 240304 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode02.fastq.gz	True
+barcode03	3	6	EMO_BON_RFormosa_SO_221216_micro3	EMO BON RFormosa SO 221216 micro(3)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode03.fastq.gz	True
+barcode04	4	1	EMO_BON_RFormosa_SO_220224_micro4	EMO BON RFormosa SO 220224 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode04.fastq.gz	True
+barcode05	5	2	EMO_BON_RFormosa_SO_220428_micro3	EMO BON RFormosa SO 220428 micro(3)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode05.fastq.gz	True
+barcode06	6	7	EMO_BON_RFormosa_SO_230420_micro4	EMO BON RFormosa SO 230420 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode06.fastq.gz	True
+barcode07	7	15	EMO_BON_RFormosa_SO_240705_micro4	EMO BON RFormosa SO 240705 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode07.fastq.gz	True
+barcode08	8	3	EMO_BON_RFormosa_SO_220629_micro3	EMO BON RFormosa SO 220629 micro(3)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode08.fastq.gz	True
+barcode09	9	4	EMO_BON_RFormosa_SO_220909_micro3	EMO BON RFormosa SO 220909 micro(3)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode09.fastq.gz	True
+barcode10	10	12	EMO_BON_RFormosa_SO_211220_micro3	EMO BON RFormosa SO 211220 micro(3)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode10.fastq.gz	True
+barcode11	11	17	EMO_BON_RFormosa_SO_241106_micro4	EMO BON RFormosa SO 241106 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode11.fastq.gz	True
+barcode12	12	18	EMO_BON_RFormosa_SO_250307_micro4	EMO BON RFormosa SO 250307 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode12.fastq.gz	True
+barcode13	13	19	EMO_BON_RFormosa_SO_250430_micro4	EMO BON RFormosa SO 250430 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode13.fastq.gz	True
+barcode14	14	20	EMO_BON_RFormosa_SO_250710_micro4	EMO BON RFormosa SO 250710 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode14.fastq.gz	True
+barcode15	15	21	EMO_BON_RFormosa_SO_250912_micro3	EMO BON RFormosa SO 250912 micro(3)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode15.fastq.gz	True
+barcode16	16	22	EMO_BON_RFormosa_SO_251125_micro2	EMO BON RFormosa SO 251125 micro(2)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode16.fastq.gz	True
+barcode17	17	16	EMO_BON_RFormosa_SO_240905_micro3	EMO BON RFormosa SO 240905 micro(3)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode17.fastq.gz	True
+barcode18	18	14	EMO_BON_RFormosa_SO_230906_micro4	EMO BON RFormosa SO 230906 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode18.fastq.gz	True
+barcode19	19	13	EMO_BON_RFormosa_SO_230703_micro4	EMO BON RFormosa SO 230703 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode19.fastq.gz	True
+barcode20	20	9	EMO_BON_RFormosa_SO_240104_micro4	EMO BON RFormosa SO 240104 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode20.fastq.gz	True
+barcode21	21	8	EMO_BON_RFormosa_SO_231025_micro4	EMO BON RFormosa SO 231025 micro(4)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode21.fastq.gz	True
+barcode22	22	5	EMO_BON_RFormosa_SO_221021_micro3	EMO BON RFormosa SO 221021 micro(3)	${LOCAL_WORKSPACE}/BIOINFORMATICS_NANOPORE/fastq_for_mag/barcode22.fastq.gz	True

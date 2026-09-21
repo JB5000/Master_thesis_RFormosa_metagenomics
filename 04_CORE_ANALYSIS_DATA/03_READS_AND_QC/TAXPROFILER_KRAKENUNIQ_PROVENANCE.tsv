@@ -1,0 +1,12 @@
+component	value	evidence_level	evidence_location	status
+input_design	23 samples x 3 deterministic equal-depth subsamples = 69 profiles	PRIMARY	institutional HPC tasks.tsv, run manifest and outputs	PASS
+read_depth	315147 reads per subsample	PRIMARY	institutional HPC min_reads.tsv and sample task script	PASS
+subsampling_command	seqkit sample -s <seed> -n 315147 <fastq> | gzip -c	PRIMARY	institutional HPC run_subsample_task_by_id.sh	PASS
+workflow_command	nextflow run nf-core/taxprofiler -r 1.2.4 -profile apptainer --input <samplesheet> --databases <dbsheet> --outdir <outdir> --run_krakenuniq --run_krona --run_profile_standardisation --max_cpus <n> --max_memory 80.GB --max_time 2.d -resume	PRIMARY	institutional HPC run script and completed .nextflow.log	PASS
+workflow_version	nf-core/taxprofiler 1.2.4 (revision 1385e2f895); Nextflow 25.04.4	PRIMARY	institutional HPC .nextflow.log	PASS
+classifier	KrakenUniq 1.0.4	PRIMARY	TaxProfiler software versions YAML	PASS
+database	krakenuniq_standard at krakenUniq_20220616_standard	PRIMARY	institutional HPC databases_input.csv	PASS
+composition	Genus-rank classified-read composition: reads at genus divided by sum of genus reads	PRIMARY	institutional HPC analysis _utils.py	PASS
+unclassified_reads	Excluded from the relative-abundance denominator	PRIMARY	institutional HPC analysis _utils.py	PASS
+profile_aggregation	Arithmetic mean of relative abundance across three subsamples	PRIMARY	institutional HPC analysis README/scripts	PASS
+full_library_context	23 full per-sample KrakenUniq standard reports were used to populate the retained read-level HTML context; exact runtime record no longer retained	SECONDARY	institutional HPC analysis README/run log referencing the completed full-read report directory	PASS_WITH_CAVEAT

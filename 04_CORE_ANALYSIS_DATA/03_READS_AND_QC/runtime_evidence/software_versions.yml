@@ -1,0 +1,9 @@
+FASTQC:
+  fastqc: 0.12.1
+KRAKENUNIQ_PRELOADEDKRAKENUNIQ:
+  krakenuniq: 1.0.4
+TAXPASTA_MERGE:
+  taxpasta: 0.7.0
+Workflow:
+    nf-core/taxprofiler: v1.2.4-g1385e2f
+    Nextflow: 25.04.4
