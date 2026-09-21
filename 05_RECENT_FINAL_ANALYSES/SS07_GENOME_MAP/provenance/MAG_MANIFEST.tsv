@@ -1,0 +1,2 @@
+final_MAG_ID	original_bin_ID	source_sample	genbank_records	sequence_length_bp	contigs	completeness_percent	contamination_percent	taxonomy	bakta_version	bakta_database	marker_features	contigs_reordered	contigs_reversed
+SS-07	METAMDBG-MetaBAT2Refined-group-group_240416.257	MG240416	2	5930534	2	100.0	0.1	Cyanobacteriota; Cyanobacteriia; Cyanobacteriales; Xenococcaceae; Waterburya	1.11.0	6.0 light	11	no	no

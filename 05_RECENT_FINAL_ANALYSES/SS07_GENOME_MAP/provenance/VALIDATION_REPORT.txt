@@ -1,0 +1,22 @@
+PASS	source hash	proksee_input/SS-07/genbank/SS-07.gbff	ae34641a3dd2a757217cf10f08b7bdd865f51bc810771d9f4a990f3040df135c
+PASS	source hash	source/SS-07_Bakta.gff3	15d30914a310beaf998896ad67a0d03b8df6ca2bf6b50f86d82ac1d36da49bb0
+PASS	source hash	source/SS-07_Bakta.json	bfa6f4a8b03505855e2fb9539184db935e4e76abf52834e7b4503b8b6c7af054
+PASS	GenBank records	2
+PASS	sequence length bp	5930534
+PASS	coordinate-confirmed marker features	11
+PASS	CGView contig order and orientation retained	2 contigs
+PASS	styled CGView curated markers	11
+PASS	MIMAG tRNA evidence	45 features; 20/20 standard amino-acid types
+PASS	MIMAG rRNA evidence	9 features; 16S, 23S and 5S represented
+PASS	CGView Bakta general variant	5662 annotated features
+PASS	CGView MIMAG RNA variant	45 tRNA plus 9 rRNA features
+PASS	Proksee project	https://proksee.ca/projects/b7b9b4fc-f180-4405-a6f9-3449b6b5bd51
+PASS	output present	exports/SS-07_Proksee_pilot.png	1047072 bytes
+PASS	output present	exports/SS-07_Proksee_pilot.svg	5021099 bytes
+PASS	output present	exports/SS-07_Proksee_pilot.json	7235695 bytes
+PASS	output present	exports/SS-07_Proksee_batch_report.png	300332 bytes
+PASS	output present	proksee_output/report.html	5127 bytes
+PASS	output present	exports/SS-07_Bakta_general.png	1244935 bytes
+PASS	output present	exports/SS-07_Bakta_general.svg	5003197 bytes
+PASS	output present	exports/SS-07_MIMAG_RNA.png	707784 bytes
+PASS	output present	exports/SS-07_MIMAG_RNA.svg	100880 bytes

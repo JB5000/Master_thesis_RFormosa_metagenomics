@@ -1,0 +1,11 @@
+field	value
+canonical_baseline_file	01_MANIFESTS/full_depth_genus_baseline_23.tsv
+legacy_source_file	${CETA_RESULTS}/08_reads_qc_taxonomy_diversity/results/tables/fig3_raw_vs_eqdepth_richness.tsv
+legacy_source_sha256	278fa2c484b214622a31e28f9a3104d823572f63882e915180592dab7b6f360a
+derivation	Full-depth observed genus richness calculated from genus-rank clade counts in the original read-level KrakenUniq reports
+full_depth_definition	Non-subsampled input retained by the original KrakenUniq taxonomic-profiling branch
+classifier	KrakenUniq 1.0.4
+database	krakenUniq_20220616_standard
+raw_reports_currently_retained	no
+retained_denominator	genus richness for all 23 samples
+species_denominator_retained	no

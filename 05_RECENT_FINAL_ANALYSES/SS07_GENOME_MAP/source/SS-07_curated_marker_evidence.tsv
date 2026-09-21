@@ -1,0 +1,12 @@
+locus_tag	display_marker	eggnog_preferred_name	KEGG_KO	seed_ortholog	evalue	score	evidence_rule
+BBJCJI_00707	psbA	psbA	K02703	111780.Sta7437_3129	4.43e-250	687.0	Preferred_name and KO
+BBJCJI_01242	nifH	nifH	K02588	1541065.JRFE01000060_gene5813	5.56e-191	532.0	Preferred_name and KO
+BBJCJI_01335	psbA	psbA2	K02703	449447.MAE_58140	1.61e-252	693.0	Preferred_name synonym and KO
+BBJCJI_01355	ureC	ureC	K01428	118161.KB235922_gene2044	0.0	1053.0	Preferred_name and KO
+BBJCJI_03434	sat	sat	K00958	118161.KB235922_gene4749	4.12e-258	710.0	Preferred_name and KO
+BBJCJI_03852	sqr	-	K17218	102129.Lepto7375DRAFT_1716	2.64e-56	190.0	KO identifies sulfide quinone oxidoreductase
+BBJCJI_04337	psbA	psbA2	K02703	449447.MAE_58140	1.61e-252	693.0	Preferred_name synonym and KO
+BBJCJI_04404	psaA	psaA	K02689	118161.KB235922_gene5173	0.0	1527.0	Preferred_name and KO
+BBJCJI_04447	psbA	-	K02703	118161.KB235922_gene2019	3.89e-244	672.0	KO identifies photosystem II D1 protein
+BBJCJI_04558	rbcL	cbbL	K01601	118161.KB235922_gene688	0.0	969.0	Preferred_name synonym and KO
+BBJCJI_05306	psbA	psbA	K02703	1541065.JRFE01000026_gene2034	1.06e-257	706.0	Preferred_name and KO

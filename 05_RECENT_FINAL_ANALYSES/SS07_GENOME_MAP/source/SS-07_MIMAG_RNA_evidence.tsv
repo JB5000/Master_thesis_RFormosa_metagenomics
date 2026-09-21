@@ -1,0 +1,55 @@
+feature_type	standard_type	amino_acid_group	gene	product	locus_tag	contig	start	stop	strand	representative_label
+tRNA	Pro	Nonpolar	trnP	tRNA-Pro(ggg)	BBJCJI_00017	contig_1	16105	16178	1	true
+tRNA	Pro	Nonpolar	trnP	tRNA-Pro(ggg)	BBJCJI_00053	contig_1	55578	55641	1	false
+tRNA	Cys	Polar	trnC	tRNA-Cys(gca)	BBJCJI_00080	contig_1	81363	81434	1	true
+tRNA	Leu	Nonpolar	trnL	tRNA-Leu(cag)	BBJCJI_00132	contig_1	131086	131170	-1	true
+tRNA	Arg	Basic	trnR	tRNA-Arg(ccg)	BBJCJI_00230	contig_1	229919	229991	-1	true
+tRNA	Asn	Polar	trnN	tRNA-Asn(gtt)	BBJCJI_00355	contig_1	354261	354332	-1	true
+tRNA	Ala	Nonpolar	trnA	tRNA-Ala(tgc)	BBJCJI_00733	contig_1	714712	714787	-1	true
+tRNA	Ile	Nonpolar	trnI	tRNA-Ile(gat)	BBJCJI_00734	contig_1	714871	714947	-1	true
+tRNA	Lys	Basic	trnK	tRNA-Lys(ctt)	BBJCJI_00760	contig_1	743310	743382	1	true
+tRNA	Met	Nonpolar	trnM	tRNA-Met(cat)	BBJCJI_00804	contig_1	793761	793834	-1	true
+tRNA	Lys	Basic	trnK	tRNA-Lys(ttt)	BBJCJI_01337	contig_1	1363332	1363403	1	false
+tRNA	Glu	Acidic	trnE	tRNA-Glu(ttc)	BBJCJI_01392	contig_1	1423449	1423521	-1	true
+tRNA	Trp	Aromatic	trnW	tRNA-Trp(cca)	BBJCJI_01460	contig_1	1493841	1493913	-1	true
+tRNA	His	Basic	trnH	tRNA-His(gtg)	BBJCJI_01525	contig_1	1555884	1555956	-1	true
+tRNA	Gln	Polar	trnQ	tRNA-Gln(ttg)	BBJCJI_01584	contig_1	1612625	1612696	-1	true
+tRNA	Asp	Acidic	trnD	tRNA-Asp(gtc)	BBJCJI_01653	contig_1	1687826	1687899	-1	true
+tRNA	Ser	Polar	trnS	tRNA-Ser(gga)	BBJCJI_01907	contig_1	1947175	1947261	1	true
+tRNA	Gly	Nonpolar	trnG	tRNA-Gly(tcc)	BBJCJI_01948	contig_1	1989868	1989938	1	true
+tRNA	Ala	Nonpolar	trnA	tRNA-Ala(tgc)	BBJCJI_02162	contig_1	2237242	2237317	-1	false
+tRNA	Ile	Nonpolar	trnI	tRNA-Ile(gat)	BBJCJI_02163	contig_1	2237401	2237477	-1	false
+tRNA	Ala	Nonpolar	trnA	tRNA-Ala(tgc)	BBJCJI_02187	contig_1	2264418	2264493	-1	false
+tRNA	Ile	Nonpolar	trnI	tRNA-Ile(gat)	BBJCJI_02188	contig_1	2264577	2264653	-1	false
+tRNA	Pro	Nonpolar	trnP	tRNA-Pro(tgg)	BBJCJI_02498	contig_1	2559423	2559496	-1	false
+tRNA	Leu	Nonpolar	trnL	tRNA-Leu(caa)	BBJCJI_02718	contig_2	20518	20597	1	false
+tRNA	Leu	Nonpolar	trnL	tRNA-Leu(caa)	BBJCJI_02730	contig_2	29793	29869	1	false
+tRNA	Ser	Polar	trnS	tRNA-Ser(tga)	BBJCJI_03374	contig_2	763102	763184	1	false
+tRNA	Leu	Nonpolar	trnL	tRNA-Leu(taa)	BBJCJI_03643	contig_2	1049697	1049782	-1	false
+tRNA	Val	Nonpolar	trnV	tRNA-Val(gac)	BBJCJI_03934	contig_2	1351309	1351382	-1	true
+tRNA	Thr	Polar	trnT	tRNA-Thr(tgt)	BBJCJI_04068	contig_2	1479923	1479995	-1	true
+tRNA	Val	Nonpolar	trnV	tRNA-Val(tac)	BBJCJI_04237	contig_2	1676680	1676767	-1	false
+tRNA	Val	Nonpolar	trnV	tRNA-Val(tac)	BBJCJI_04263	contig_2	1696295	1696366	-1	false
+tRNA	Ala	Nonpolar	trnA	tRNA-Ala(ggc)	BBJCJI_04553	contig_2	1990790	1990862	-1	false
+tRNA	Ser	Polar	trnS	tRNA-Ser(cga)	BBJCJI_04578	contig_2	2015611	2015697	-1	false
+tRNA	Pro	Nonpolar	trnP	tRNA-Pro(cgg)	BBJCJI_04660	contig_2	2101536	2101609	1	false
+tRNA	Tyr	Aromatic	trnY	tRNA-Tyr(gta)	BBJCJI_04750	contig_2	2202745	2202826	1	true
+tRNA	Arg	Basic	trnR	tRNA-Arg(tct)	BBJCJI_04891	contig_2	2345738	2345811	-1	false
+tRNA	Arg	Basic	trnR	tRNA-Arg(acg)	BBJCJI_04947	contig_2	2383012	2383085	-1	false
+tRNA	Phe	Aromatic	trnF	tRNA-Phe(gaa)	BBJCJI_04958	contig_2	2391362	2391434	1	true
+tRNA	Gly	Nonpolar	trnG	tRNA-Gly(gcc)	BBJCJI_05070	contig_2	2508048	2508119	1	false
+tRNA	Ile	Nonpolar	trnI	tRNA-Ile2(cat)	BBJCJI_05129	contig_2	2565404	2565476	-1	false
+tRNA	Met	Nonpolar	trnfM	tRNA-fMet(cat)	BBJCJI_05183	contig_2	2636776	2636849	-1	false
+tRNA	Leu	Nonpolar	trnL	tRNA-Leu(tag)	BBJCJI_05211	contig_2	2661686	2661767	1	false
+tRNA	Leu	Nonpolar	trnL	tRNA-Leu(gag)	BBJCJI_05217	contig_2	2665939	2666020	1	false
+tRNA	Ser	Polar	trnS	tRNA-Ser(gct)	BBJCJI_05219	contig_2	2666744	2666832	-1	false
+tRNA	Thr	Polar	trnT	tRNA-Thr(ggt)	BBJCJI_05228	contig_2	2676298	2676369	1	false
+rRNA	5S	NOT_APPLICABLE	rrf	5S ribosomal RNA	BBJCJI_00731	contig_1	711403	711520	-1	true
+rRNA	23S	NOT_APPLICABLE	rrl	23S ribosomal RNA	BBJCJI_00732	contig_1	711636	714504	-1	true
+rRNA	16S	NOT_APPLICABLE	rrs	16S ribosomal RNA	BBJCJI_00735	contig_1	715102	716593	-1	true
+rRNA	5S	NOT_APPLICABLE	rrf	5S ribosomal RNA	BBJCJI_02160	contig_1	2233974	2234091	-1	false
+rRNA	23S	NOT_APPLICABLE	rrl	23S ribosomal RNA	BBJCJI_02161	contig_1	2234207	2237034	-1	false
+rRNA	16S	NOT_APPLICABLE	rrs	16S ribosomal RNA	BBJCJI_02164	contig_1	2237632	2239123	-1	false
+rRNA	5S	NOT_APPLICABLE	rrf	5S ribosomal RNA	BBJCJI_02185	contig_1	2261150	2261267	-1	false
+rRNA	23S	NOT_APPLICABLE	rrl	23S ribosomal RNA	BBJCJI_02186	contig_1	2261383	2264210	-1	false
+rRNA	16S	NOT_APPLICABLE	rrs	16S ribosomal RNA	BBJCJI_02189	contig_1	2264808	2266299	-1	false

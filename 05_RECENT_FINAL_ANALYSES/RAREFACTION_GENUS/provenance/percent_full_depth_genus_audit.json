@@ -1,0 +1,54 @@
+{
+  "baseline_sha256": "278fa2c484b214622a31e28f9a3104d823572f63882e915180592dab7b6f360a",
+  "baseline_source": "tables/full_depth_genus_baseline_23.tsv",
+  "depths": [
+    1000,
+    5000,
+    10000,
+    25000,
+    50000,
+    100000,
+    250000,
+    315147
+  ],
+  "full_depth_reference_definition": "Observed genus richness derived from the original full-depth read-level KrakenUniq reports; 100% is sample-specific.",
+  "legacy_315147_endpoint_mismatches": 0,
+  "maximum_observed_percent": 100.054585153,
+  "observations": 552,
+  "observations_above_100_percent": 3,
+  "output_sha256": {
+    "figures/rarefaction_percent_full_depth_genus_all23.pdf": "70b61fa6e2c2c6a28e7195ae91f49dcbb6e88af98d0a69bcf8c45059b9683b44",
+    "figures/rarefaction_percent_full_depth_genus_all23.png": "44a36680fa708c24240942722d6a2245951acc0d98759ee21e0c748235199a52",
+    "figures/rarefaction_percent_full_depth_genus_all23.svg": "5e0657beb3c6f08a9cb918429a908dd9f3f24d6cfa226d2388916acff51f9ebb",
+    "figures/rarefaction_percent_full_depth_genus_overall.pdf": "dabd4ea9126ee62ca965ee6b7aa89b6628990529b598b4a4a221298158632079",
+    "figures/rarefaction_percent_full_depth_genus_overall.png": "e84fa74f865f11ad3a34a45a2c891b6a5bb2081b4ea19fcf87adbb891a69aac1",
+    "figures/rarefaction_percent_full_depth_genus_overall.svg": "e9e19a46004bfa209ae7d80b37bdece9e459cd5f60f84730e15e21a313990c2f",
+    "tables/rarefaction_percent_full_depth_genus_all_repeats.tsv": "903ff7ee97a1e41af72b8ff001273d6ff8fcf81b204d19adb90468a08caa2eed",
+    "tables/rarefaction_percent_full_depth_genus_by_sample_depth.tsv": "249433628e2deddd8e8f568bda658b587124197e2a6cc00c5dfb92cbd312d535",
+    "tables/rarefaction_percent_full_depth_genus_overall.tsv": "c001891b9d16d7aae21ca6952c12fae970cad7a6572f58218008342c423c7bbc"
+  },
+  "outputs": {
+    "all_repeats_tsv": "tables/rarefaction_percent_full_depth_genus_all_repeats.tsv",
+    "by_sample_depth_tsv": "tables/rarefaction_percent_full_depth_genus_by_sample_depth.tsv",
+    "facet_figure": {
+      "pdf": "figures/rarefaction_percent_full_depth_genus_all23.pdf",
+      "png": "figures/rarefaction_percent_full_depth_genus_all23.png",
+      "svg": "figures/rarefaction_percent_full_depth_genus_all23.svg"
+    },
+    "overall_figure": {
+      "pdf": "figures/rarefaction_percent_full_depth_genus_overall.pdf",
+      "png": "figures/rarefaction_percent_full_depth_genus_overall.png",
+      "svg": "figures/rarefaction_percent_full_depth_genus_overall.svg"
+    },
+    "overall_tsv": "tables/rarefaction_percent_full_depth_genus_overall.tsv"
+  },
+  "rank": "genus",
+  "rarefaction_source": "tables/rarefaction_percent_full_depth_genus_all_repeats.tsv",
+  "rarefaction_source_sha256": "903ff7ee97a1e41af72b8ff001273d6ff8fcf81b204d19adb90468a08caa2eed",
+  "replicates_per_sample_depth": 3,
+  "sample_depth_groups": 184,
+  "samples": 23,
+  "species_version_generated": false,
+  "species_version_reason": "The original full-depth species-richness denominator was not retained.",
+  "status": "PASS"
+}
