@@ -1,5 +1,0 @@
-recovered_file	sha256	recovery_date	evidence_status	notes
-06_MAG29/genome_catalogue/MAG29_combined_representatives.fna	8f7080b73366ec4b355cf10452d635f7a2f89311d759eaf3b4b885be03f77c00	2026-07-19	PRIMARY_RECOVERED	Recovered read-only from institutional HPC; private source path excluded from the public package.
-06_MAG29/genome_catalogue/MAG29_contig_to_original_bin.tsv	143d63bec01bb50dc14975646c546602bbc88da41bf8ad954edd0d8cf34ce26a	2026-07-19	PRIMARY_RECOVERED	Recovered read-only from institutional HPC; private source path excluded from the public package.
-09_COA4/genome_catalogue/CoA4_combined_representatives.fna	9030a2fa875f4c8e7f19bcdd3d329f7c2ba3be15a62d6a8c7072faee76f98aba	2026-07-19	PRIMARY_RECOVERED	Recovered read-only from institutional HPC; private source path excluded from the public package.
-09_COA4/genome_catalogue/CoA4_contig_to_original_bin.tsv	afb94acb7fb9afdb6ae0ab613bd0ac36077552012acb12b1f63c9648b6dcf887a	2026-07-19	PRIMARY_RECOVERED	Recovered read-only from institutional HPC; private source path excluded from the public package.

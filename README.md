@@ -1,27 +1,28 @@
 # Ria Formosa scientific data and figure-reproduction bundle
 
-Created and audited: 2026-09-02.
+This repository is a scientific data and reproducibility package, not a copy
+of the thesis. It contains the final figure assets, the data used to make
+them, relevant result tables, analysis inputs and portable scripts. Thesis
+prose, captions, bibliography management and supervisor comments are not
+included.
 
-This is a scientific analysis bundle, not a thesis copy. It contains final
-figures, their source data, result tables, figure-generation scripts, upstream
-workflows and technical provenance. Interpretation, thesis prose, captions,
-bibliography-management material and supervisor comments are deliberately
-excluded.
+## Repository map
 
-## Start here
-
-- `ASSET_MANIFEST.tsv` maps each final figure and result table to its source
-  data, generation script and upstream analysis.
-- `figures/` contains 24 retained high-resolution PNG figure assets.
-- `results_tables/data/` contains nine descriptive result tables without
-  thesis table numbering.
-- `03_REPRODUCIBILITY/` contains portable plotting and audit scripts plus
-  source matrices and plotted-value tables.
-- `04_CORE_ANALYSIS_DATA/` and `05_RECENT_FINAL_ANALYSES/` retain sampling,
-  QC, taxonomy, assembly/binning, MAG29, CoA4, recruitment, functional,
-  rarefaction, porTraits/sumTraits, Proksee and Bandage evidence.
-- `06_METHODS_AND_VALIDATION/` retains BLASTn outputs, workflow parameters,
-  versions, commands and reproducibility reports.
+- `01_FIGURES/final/` — the 24 final PNG figure assets.
+- `01_FIGURES/gallery/` — a local HTML viewer for those same assets. It is
+  only an index; it is not a second figure collection.
+- `02_REPRODUCIBILITY/` — figure source matrices, plotted-value tables,
+  generation scripts, software/database versions and recovered commands.
+- `03_CORE_ANALYSIS_DATA/` — sampling, read QC, taxonomy, assembly/binning,
+  MAG29, recruitment, functional and CoA4 data.
+- `04_RECENT_FINAL_ANALYSES/` — the recent rarefaction, sumTraits, Proksee
+  and Flye/Bandage analyses with their inputs and provenance.
+- `05_METHODS_AND_VALIDATION/` — BLASTn target-screen outputs and relevant
+  workflow/provenance records.
+- `06_RESULT_TABLES/` — descriptive result tables and exact plotted-value
+  matrices, without thesis table numbering.
+- `ASSET_MANIFEST.tsv` — one row per final figure or result table, linking it
+  to source data and (where applicable) its generation script.
 
 ## Canonical analysis constants
 
@@ -33,22 +34,18 @@ excluded.
 
 ## Reproduction notes
 
-All active scripts use bundle-relative paths or documented environment
-variables. Historical absolute commands, when scientifically useful, are kept
-only as clearly labelled provenance. The original full-depth TaxProfiler QC run
-for Figure S6 is retained in
-`04_CORE_ANALYSIS_DATA/03_READS_AND_QC/taxprofiler_20260430/`; its raw FASTQs
-are represented by a portable manifest rather than copied into this repository.
-Proksee and Bandage figures retain their inputs and documented interactive
-procedures. Run `03_REPRODUCIBILITY/scripts/audit_scientific_bundle.py` to
-regenerate `BUNDLE_AUDIT.md`.
-
-Install plotting dependencies with:
+Active figure scripts resolve inputs from the bundle or from documented
+environment variables and create their own output directories. Install the
+plotting dependencies with:
 
 ```bash
-python3 -m pip install -r 03_REPRODUCIBILITY/requirements.txt
+python3 -m pip install -r 02_REPRODUCIBILITY/requirements.txt
 ```
 
-See `DATA_AVAILABILITY.md` for the boundary between the included
-figure-reproduction data and the external raw sequencing data required for a
-complete raw-read rerun.
+The original full-depth TaxProfiler QC provenance for Figure S6 is retained
+under `03_CORE_ANALYSIS_DATA/02_READS_AND_QC/taxprofiler_20260430/`; the raw
+FASTQs themselves are represented by a portable filename manifest rather than
+copied into this repository. Proksee and Bandage figures retain their inputs
+and documented interactive procedures. See `DATA_AVAILABILITY.md` for the
+boundary between the included reproduction data and external raw sequencing
+data required for a complete raw-read rerun.

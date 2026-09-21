@@ -7,7 +7,7 @@ to regenerate and verify the analyses represented in the bundle.
 The original 23 merged Oxford Nanopore FASTQ libraries are not included because
 they are large primary-sequencing files. Their portable filename inventory is
 retained at
-`04_CORE_ANALYSIS_DATA/03_READS_AND_QC/taxprofiler_20260430/raw_fastq_manifest.tsv`.
+`03_CORE_ANALYSIS_DATA/02_READS_AND_QC/taxprofiler_20260430/raw_fastq_manifest.tsv`.
 The raw reads must be deposited in, or made available through, an appropriate
 long-term sequencing repository before claiming that a public user can rerun
 the complete workflow from raw reads.
