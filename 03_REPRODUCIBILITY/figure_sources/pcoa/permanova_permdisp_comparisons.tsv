@@ -1,0 +1,6 @@
+comparison	group_a	group_b	n_group_a	n_group_b	permanova_F	permanova_p	permanova_R2	permdisp_F	permdisp_p
+background_vs_bloom_like_core	background	bloom_like_core	22.0	1.0	10.19881711896622	0.0461		7.359934590752279	0.0429
+background_vs_expanded	background	expanded	22.0	1.0	10.19881711896622	0.0441		7.359934590752279	0.0459
+rest_vs_final4	rest	final4	19.0	4.0	1.1115200379014363	0.2935		0.6375672133929076	0.5043
+rest_vs_final5	rest	final5	18.0	5.0	3.907485917135444	0.011		0.9861234438345108	0.3935
+Season	multi	multi			0.5005698659272784	0.9596		0.5079889083950729	0.7657

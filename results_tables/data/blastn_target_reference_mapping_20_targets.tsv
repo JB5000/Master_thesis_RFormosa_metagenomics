@@ -1,0 +1,21 @@
+target_name	source_db	taxid	assembly_or_seq_accession	included_as_reference
+Bonamia ostreae	riaformosa_supplemental_euk_viral_hab_db	126728	GCA_040357525.1	YES
+Escherichia coli	riaformosa_bacterial_pathogen_db	562	GCF_000005845.2	YES
+Lactococcus garvieae	riaformosa_bacterial_pathogen_db	1363	GCF_016026695.1	YES
+Mycobacterium marinum	riaformosa_bacterial_pathogen_db	1781	GCF_000723425.2	YES
+Ostreavirus ostreidmalaco1 / Ostreid herpesvirus 1 / OsHV-1	riaformosa_supplemental_euk_viral_hab_db	3050331	GCF_000846065.1	YES
+Perkinsus olseni	riaformosa_supplemental_euk_viral_hab_db	32597	GCA_978019485.1	YES
+Photobacterium damselae	riaformosa_bacterial_pathogen_db	38293	GCF_038086725.1	YES
+Photobacterium damselae subsp. piscicida	riaformosa_bacterial_pathogen_db	38294	GCF_002356235.1	YES
+Pseudo-nitzschia	riaformosa_supplemental_euk_viral_hab_db	41953	GCA_037355735.1	YES
+Salmonella enterica	riaformosa_bacterial_pathogen_db	28901	GCF_000006945.2	YES
+Tenacibaculum maritimum	riaformosa_bacterial_pathogen_db	107401	GCF_900119795.1	YES
+Tenacibaculum soleae	riaformosa_bacterial_pathogen_db	447689	GCF_030549005.1	YES
+Vibrio aestuarianus	riaformosa_bacterial_pathogen_db	28171	GCF_028858425.1	YES
+Vibrio alginolyticus	riaformosa_bacterial_pathogen_db	663	GCF_023650915.1	YES
+Vibrio anguillarum	riaformosa_bacterial_pathogen_db	55601	GCF_003390515.1	YES
+Vibrio cholerae	riaformosa_bacterial_pathogen_db	666	GCF_008369605.1	YES
+Vibrio harveyi	riaformosa_bacterial_pathogen_db	669	GCF_030060435.1	YES
+Vibrio parahaemolyticus	riaformosa_bacterial_pathogen_db	670	GCF_000196095.1	YES
+Vibrio tapetis	riaformosa_bacterial_pathogen_db	52443	GCF_030409945.1	YES
+Vibrio vulnificus	riaformosa_bacterial_pathogen_db	672	GCF_002224265.1	YES

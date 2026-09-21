@@ -1,0 +1,30 @@
+MAG ID	Genome size (Mb)	Contigs	Strict MIMAG-HQ	Missing requirement(s) if No
+SS-01	2.76	19	Yes	—
+SS-02	5.45	52	Yes	—
+SS-03	5.63	61	Yes	—
+SS-04	2.74	11	Yes	—
+SS-05	3.43	31	Yes	—
+SS-06	4.08	12	Yes	—
+SS-07	5.93	2	Yes	—
+SS-08	3.43	32	Yes	—
+SS-09	4.61	19	Yes	—
+SS-10	4.88	13	Yes	—
+SS-11	5.06	45	No	tRNAs for <18 standard amino acids
+SS-12	5.64	9	Yes	—
+SS-13	4.49	13	Yes	—
+SS-14	3.29	10	Yes	—
+SS-15	3.12	7	Yes	—
+SS-16	2.94	12	Yes	—
+SS-17	5.32	38	No	16S rRNA absent; 23S rRNA absent
+SS-18	3.21	3	Yes	—
+SS-19	3.35	54	Yes	—
+SS-20	3.51	12	Yes	—
+SS-21	3.13	12	Yes	—
+SS-22	3.95	13	Yes	—
+SS-23	4.57	3	Yes	—
+SS-24	3.68	8	Yes	—
+SS-25	3.79	5	Yes	—
+SS-26	3.05	14	Yes	—
+SS-27	4.11	22	Yes	—
+SS-28	4.05	11	Yes	—
+SS-29	3.76	25	No	23S rRNA absent; 5S rRNA absent; tRNAs for <18 standard amino acids

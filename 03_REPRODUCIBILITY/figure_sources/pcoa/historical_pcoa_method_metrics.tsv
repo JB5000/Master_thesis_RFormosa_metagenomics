@@ -1,0 +1,2 @@
+taxonomic_rank	input_value	within_sample_normalisation	distance	ordination	PC1_percent_positive_eigenvalues	PC2_percent_positive_eigenvalues	PC1_correlation_with_genus_clade_read_sum
+genus	mean clade reads across three equal-depth replicates	none	Bray-Curtis	classical PCoA	64.18460367021991	16.892033301794413	0.9423688936379517

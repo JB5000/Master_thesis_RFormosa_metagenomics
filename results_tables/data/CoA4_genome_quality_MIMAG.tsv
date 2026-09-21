@@ -1,0 +1,5 @@
+CoA ID	Genome size (Mb)	Contigs	Strict MIMAG-HQ	Missing requirement(s) if No
+CoA-1	2.66	26	No	23S rRNA absent; 5S rRNA absent
+CoA-2	4.57	85	Yes	—
+CoA-3	6.22	42	Yes	—
+CoA-4	7.1	17	Yes	—

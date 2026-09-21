@@ -1,0 +1,9 @@
+	SS-03	SS-06	SS-07	SS-12	SS-17
+Sulfate reduction (dsrAB)	0	0	0	1	0
+Sulfur oxidation (soxB/sqr)	1	1	1	0	1
+Nitrogen fixation (nifH)	0	0	1	1	0
+Denitrification (nirS/nirK)	0	1	0	0	0
+Carbon fixation (rbcL)	0	0	1	0	1
+Photosynthesis (psbA/psaA)	0	0	1	0	0
+Flagellar motility (fliC/motA)	0	1	0	1	0
+Aerobic respiration (coxA)	1	1	1	0	1

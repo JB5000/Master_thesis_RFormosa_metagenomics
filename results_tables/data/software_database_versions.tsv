@@ -1,0 +1,32 @@
+Analytical step	Tool or workflow	Verified version or release	Database model or scope
+basecalling	Dorado	1.4.0	dna_r10.4.1_e8.2_400bps_sup@v5.2.0; modified bases 4mC_5mC and 6mA
+demultiplexing	Dorado demux	1.4.0	SQK-NBD114-24
+MAG workflow	nf-core/mag	5.4.1	23 independent long-read runs plus a separate four-sample coassembly
+MAG workflow runtime	Nextflow	25.10.4 build 11173	Representative completed nf-core/mag run
+long-read filtering	Chopper	0.8.0	Minimum retained read length 2,000 bp
+long-read assembly	Flye/metaFlye	2.9.5-b1801	Per-sample and coassembly branches
+long-read assembly	metaMDBG	1.2	Per-sample and coassembly branches
+genome binning	CONCOCT	1.1.0	nf-core/mag binning layer
+genome binning	MaxBin2	2.2.7	nf-core/mag binning layer
+genome binning	MetaBAT2	2.17	nf-core/mag binning layer
+genome binning	MetaBinner	1.4.4	nf-core/mag binning layer
+genome binning	SemiBin2	2.2.0	nf-core/mag binning layer
+bin refinement	DAS Tool	1.1.7	refined_bins_only
+genome quality	CheckM2	1.1.0	uniref100.KO.1.dmnd; exact database release/hash not recovered
+complementary genome QC	GUNC	1.0.6	progenomes 2.1
+dereplication	dRep	3.6.2	-comp 90; -con 5; -l 50000; -pa 0.9; -sa 0.95; -nc 0.1; fastANI
+taxonomy	GTDB-Tk	2.5.2	GTDB release r226; bac120 classify_wf
+structural annotation	Bakta	1.11.0	light database v6; metagenome mode
+orthology annotation	eggNOG-mapper	2.1.13	eggNOG database 5.0.2; DIAMOND 2.2.0
+functional screening	nf-core/funcscan	3.0.0	Nextflow 25.04.4; antiSMASH 8.0.1; GECCO 0.9.10
+VFDB similarity screen	DIAMOND	2.2.0	VFDB setB protein database downloaded/built 2026-05-11
+trait prediction	porTraits via CloWM	0.2.1; workflow code commit 076c8b418c0bc69654d278e70d18f96bb7634f87	porTraits metaTraits workflow; GenomeSPOT component 1.0.1; exact internal model release not retained
+recruitment mapping	minimap2	2.17-r941	map-ont
+recruitment alignment processing	samtools	1.9	view/sort/index/idxstats
+recruitment coverage regeneration	samtools	1.23	coverage subcommand
+equal-depth subsampling	SeqKit	exact runtime version not recovered	sample -s <seed> -n 315147
+equal-depth read profiling	nf-core/taxprofiler	1.2.4; Nextflow 25.04.4	69 profiles: 23 samples x 3 equal-depth subsets
+equal-depth read classifier	KrakenUniq	1.0.4	krakenUniq_20220616_standard
+full-depth read classifier	KrakenUniq	1.0.4 (inferred from the retained taxprofiler installation)	krakenUniq_20220616_standard
+targeted reference screen	NCBI BLASTn	cluster installation; exact version not retained	custom nucleotide BLAST database built from the 20 included reference targets; blastn -evalue 1e-5 -max_target_seqs 1 -max_hsps 1 -outfmt 6
+Waterburya comparison	fastANI	1.34	five Waterburya reference genomes

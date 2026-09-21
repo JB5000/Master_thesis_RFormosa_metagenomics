@@ -1,0 +1,9 @@
+	CoA-1	CoA-2	CoA-3	CoA-4
+Sulfate reduction (dsrAB)	1	0	0	0
+Sulfur oxidation (soxB/sqr)	1	0	1	0
+Nitrogen fixation (nifH)	0	1	1	1
+Denitrification (nirS/nirK)	0	0	0	0
+Carbon fixation (rbcL)	1	0	1	1
+Photosynthesis (psbA/psaA)	0	0	1	1
+Flagellar motility (fliC/motA)	0	1	0	0
+Aerobic respiration (coxA)	1	0	1	1

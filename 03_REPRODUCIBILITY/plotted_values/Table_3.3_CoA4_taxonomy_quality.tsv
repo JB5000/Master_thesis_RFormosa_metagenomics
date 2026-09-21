@@ -1,0 +1,5 @@
+CoA_ID	Phylum	Family	Genus_lowest_GTDB_taxon	Genome_size_Mb	N_contigs	Completeness_pct	Contamination_pct	Strict_MIMAG_HQ
+CoA-1	Pseudomonadota	BMS3Bbin11	JARFQC01	2.66	26	91.17	3.20	no (23S and 5S absent; tRNA criterion met)
+CoA-2	Pseudomonadota	Competibacteraceae	novel genus	4.57	85	96.13	0.93	yes
+CoA-3	Cyanobacteriota	Xenococcaceae	Waterburya-related	6.22	42	97.01	2.71	yes
+CoA-4	Cyanobacteriota	Xenococcaceae	Waterburya-related	7.1	17	100.00	0.11	yes

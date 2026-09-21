@@ -1,0 +1,27 @@
+	CoA-1	CoA-2	CoA-3	CoA-4
+Dissimilatory sulfate reduction (dsrAB)	6.0	0.0	0.0	0.0
+Sulfate activation (sat/aprA)	2.0	0.0	0.0	1.0
+Thiosulfate oxidation (soxB)	1.0	0.0	0.0	0.0
+Sulfide:quinone oxidoreductase (sqr)	4.0	0.0	1.0	0.0
+Nitrate reduction (narG)	0.0	0.0	0.0	0.0
+Denitrification (nirS/nirK)	0.0	0.0	0.0	0.0
+Nitrogen fixation (nifH)	0.0	1.0	1.0	1.0
+Urease (ureC)	3.0	1.0	1.0	1.0
+RuBisCO (rbcL)	1.0	0.0	1.0	1.0
+Photosystem II (psbA)	0.0	0.0	7.0	6.0
+Photosystem I (psaA)	0.0	0.0	0.0	1.0
+Glycoside hydrolases (GH)	8.0	18.0	46.0	35.0
+Glycosyltransferases (GT)	24.0	29.0	39.0	40.0
+Formate dehydrogenase (fdhA)	5.0	1.0	0.0	0.0
+Acetyl-CoA synthetase (acs)	1.0	2.0	2.0	1.0
+Cytochrome c oxidase (coxA)	2.0	0.0	2.0	2.0
+Cytochrome bd oxidase (cydA)	0.0	0.0	1.0	0.0
+Fumarate reductase (frdA)	0.0	1.0	0.0	0.0
+Flagellar motility (fliC/motA)	0.0	4.0	0.0	0.0
+Type IV pili (pilA)	2.0	0.0	1.0	1.0
+Copper resistance (copA)	1.0	2.0	1.0	3.0
+Oxidative stress (sodB/katE)	1.0	2.0	1.0	2.0
+BGC: NRP (GECCO)	0.0	0.0	1.0	0.0
+BGC: Polyketide (GECCO)	0.0	0.0	1.0	0.0
+BGC: RiPP (GECCO)	0.0	0.0	0.0	0.0
+BGC: Terpene (GECCO)	0.0	0.0	0.0	0.0

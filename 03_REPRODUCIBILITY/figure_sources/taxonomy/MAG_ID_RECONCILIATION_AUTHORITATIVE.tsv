@@ -1,0 +1,30 @@
+authoritative_ID	source_table_ID	original_bin_ID	source_sample	Phylum	Class	Order	Family	Genus	Completeness	Contamination	integrity_check
+SS-01	SS-29	METAMDBG-SemiBin2Refined-group-group_240905.0	MG240905	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Site-B15	90.45	0.09	OK
+SS-02	SS-28	METAMDBG-MetaBinnerRefined-group-group_240416.5	MG240416	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	JAJDFU01	99.2	1.51	OK
+SS-03	SS-26	METAMDBG-MetaBinnerRefined-group-group_240416.1	MG240416	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	JARQTN01	99.61	1.78	OK
+SS-04	SS-11	METAMDBG-MaxBin2Refined-group-group_240416.001	MG240416	Actinomycetota	Actinomycetes	Jiangellales	Jiangellaceae	Jiangellaceae (fam.)	94.01	0.05	OK
+SS-05	SS-14	METAMDBG-MaxBin2Refined-group-group_240416.014	MG240416	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Ilumatobacteraceae	Sva-07	95.57	0.83	OK
+SS-06	SS-06	FLYE-MetaBAT2Refined-group-group_240416.722	MG240416	Actinomycetota	Acidimicrobiia	UBA5794	ZC4RG35	JAHEDH01	98.48	0.59	OK
+SS-07	SS-21	METAMDBG-MetaBAT2Refined-group-group_240416.257	MG240416	Cyanobacteriota	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	Waterburya	100.0	0.1	OK
+SS-08	SS-05	FLYE-MetaBAT2Refined-group-group_240416.579	MG240416	Cyanobacteriota	Cyanobacteriia	Cyanobacteriales	MRBY01	Limnothrix	99.59	1.49	OK
+SS-09	SS-12	METAMDBG-MaxBin2Refined-group-group_240416.002	MG240416	Desulfobacterota	Desulfobulbia	Desulfobulbales	Desulfocapsaceae	JABDQA01	97.79	1.39	OK
+SS-10	SS-09	METAMDBG-CONCOCTRefined-group-group_240416.97	MG240416	Desulfobacterota	Syntrophobacteria	BM002	BM002	BM002	96.55	3.21	OK
+SS-11	SS-17	METAMDBG-MetaBAT2Refined-group-group_240304.160	MG240304	Desulfobacterota	Desulfobacteria	Desulfobacterales	UBA5852	JABZFP01	97.1	3.58	OK
+SS-12	SS-19	METAMDBG-MetaBAT2Refined-group-group_240416.112	MG240416	Desulfobacterota	Desulfobacteria	Desulfobacterales	Desulfosarcinaceae	Desulfosarcina	93.9	4.84	OK
+SS-13	SS-02	FLYE-MetaBAT2Refined-group-group_220428.91	MG220428	Desulfobacterota	Desulfobacteria	Desulfobacterales	Desulfosarcinaceae	JARRKU01	92.36	0.42	OK
+SS-14	SS-15	METAMDBG-MetaBAT2Refined-group-group_231025.73	MG231025	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	JAHTBL01	94.16	0.21	OK
+SS-15	SS-24	METAMDBG-MetaBAT2Refined-group-group_240416.708_sub	MG240416	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	Methyloceanibacter	93.19	3.69	OK
+SS-16	SS-13	METAMDBG-MaxBin2Refined-group-group_240416.006	MG240416	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	Methyloceanibacter	99.55	0.28	OK
+SS-17	SS-03	FLYE-MetaBAT2Refined-group-group_240416.203	MG240416	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	CAJQQK01	92.0	2.77	OK
+SS-18	SS-23	METAMDBG-MetaBAT2Refined-group-group_240416.313	MG240416	Pseudomonadota	Gammaproteobacteria	BMS3Bbin11	BMS3Bbin11	BMS3Bbin11	100.0	0.01	OK
+SS-19	SS-18	METAMDBG-MetaBAT2Refined-group-group_240304.5	MG240304	Pseudomonadota	Gammaproteobacteria	GCA-001735895	GCA-001735895	JACNJF01	94.1	4.46	OK
+SS-20	SS-22	METAMDBG-MetaBAT2Refined-group-group_240416.291	MG240416	Pseudomonadota	Gammaproteobacteria	SZUA-229	SZUA-229	JABDQW01	95.11	1.05	OK
+SS-21	SS-16	METAMDBG-MetaBAT2Refined-group-group_240304.148	MG240304	Pseudomonadota	Gammaproteobacteria	SZUA-229	SZUA-229	GCA-2746365	95.51	1.93	OK
+SS-22	SS-27	METAMDBG-MetaBinnerRefined-group-group_240416.2	MG240416	Pseudomonadota	Gammaproteobacteria	Woeseiales	Woeseiaceae	JAACFE01	97.01	2.76	OK
+SS-23	SS-20	METAMDBG-MetaBAT2Refined-group-group_240416.1169	MG240416	Pseudomonadota	Gammaproteobacteria	Woeseiales	Woeseiaceae	JBFGFX01	99.97	0.88	OK
+SS-24	SS-25	METAMDBG-MetaBAT2Refined-group-group_240416.795	MG240416	Pseudomonadota	Gammaproteobacteria	Woeseiales	Woeseiaceae	JAACFB01	98.25	0.11	OK
+SS-25	SS-10	METAMDBG-MaxBin2Refined-group-group_220428.005	MG220428	Pseudomonadota	Gammaproteobacteria	Woeseiales	Woeseiaceae	JAACFB01	97.6	0.14	OK
+SS-26	SS-08	FLYE-MetaBAT2Refined-group-group_240416.820	MG240416	Pseudomonadota	Gammaproteobacteria	Chromatiales	Sedimenticolaceae	Sva-25	97.17	2.76	OK
+SS-27	SS-04	FLYE-MetaBAT2Refined-group-group_240416.419	MG240416	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudohongiellaceae	UBA9145	92.97	0.48	OK
+SS-28	SS-07	FLYE-MetaBAT2Refined-group-group_240416.82	MG240416	Pseudomonadota	Gammaproteobacteria	Xanthomonadales	SZUA-36	SZUA-36 (fam.)	94.95	0.75	OK
+SS-29	SS-01	FLYE-CONCOCTRefined-group-group_240416.290	MG240416	Pseudomonadota	Gammaproteobacteria	Xanthomonadales	SZUA-36	Marinihelvus	96.92	0.92	OK

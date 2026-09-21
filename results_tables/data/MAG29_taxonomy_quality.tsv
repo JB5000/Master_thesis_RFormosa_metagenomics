@@ -1,0 +1,30 @@
+MAG ID	GTDB taxonomy to genus / lowest assigned taxon	Completeness (%)	Contamination (%)
+SS-01	Bacteroidota; Bacteroidia; Flavobacteriales; Flavobacteriaceae; Site-B15	90.45	0.09
+SS-02	Bacteroidota; Bacteroidia; Chitinophagales; Saprospiraceae; JAJDFU01	99.2	1.51
+SS-03	Bacteroidota; Bacteroidia; Chitinophagales; Saprospiraceae; JARQTN01	99.61	1.78
+SS-04	Actinomycetota; Actinomycetes; Jiangellales; Jiangellaceae; Jiangellaceae (fam.)	94.01	0.05
+SS-05	Actinomycetota; Acidimicrobiia; Acidimicrobiales; Ilumatobacteraceae; Sva-07	95.57	0.83
+SS-06	Actinomycetota; Acidimicrobiia; UBA5794; ZC4RG35; JAHEDH01	98.48	0.59
+SS-07	Cyanobacteriota; Cyanobacteriia; Cyanobacteriales; Xenococcaceae; Waterburya	100.0	0.1
+SS-08	Cyanobacteriota; Cyanobacteriia; Cyanobacteriales; MRBY01; Limnothrix	99.59	1.49
+SS-09	Desulfobacterota; Desulfobulbia; Desulfobulbales; Desulfocapsaceae; JABDQA01	97.79	1.39
+SS-10	Desulfobacterota; Syntrophobacteria; BM002; BM002; BM002	96.55	3.21
+SS-11	Desulfobacterota; Desulfobacteria; Desulfobacterales; UBA5852; JABZFP01	97.1	3.58
+SS-12	Desulfobacterota; Desulfobacteria; Desulfobacterales; Desulfosarcinaceae; Desulfosarcina	93.9	4.84
+SS-13	Desulfobacterota; Desulfobacteria; Desulfobacterales; Desulfosarcinaceae; JARRKU01	92.36	0.42
+SS-14	Pseudomonadota; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; JAHTBL01	94.16	0.21
+SS-15	Pseudomonadota; Alphaproteobacteria; Rhizobiales; Methyloligellaceae; Methyloceanibacter	93.19	3.69
+SS-16	Pseudomonadota; Alphaproteobacteria; Rhizobiales; Methyloligellaceae; Methyloceanibacter	99.55	0.28
+SS-17	Pseudomonadota; Alphaproteobacteria; Rhizobiales; Hyphomicrobiaceae; CAJQQK01	92.0	2.77
+SS-18	Pseudomonadota; Gammaproteobacteria; BMS3Bbin11; BMS3Bbin11; BMS3Bbin11	100.0	0.01
+SS-19	Pseudomonadota; Gammaproteobacteria; GCA-001735895; GCA-001735895; JACNJF01	94.1	4.46
+SS-20	Pseudomonadota; Gammaproteobacteria; SZUA-229; SZUA-229; JABDQW01	95.11	1.05
+SS-21	Pseudomonadota; Gammaproteobacteria; SZUA-229; SZUA-229; GCA-2746365	95.51	1.93
+SS-22	Pseudomonadota; Gammaproteobacteria; Woeseiales; Woeseiaceae; JAACFE01	97.01	2.76
+SS-23	Pseudomonadota; Gammaproteobacteria; Woeseiales; Woeseiaceae; JBFGFX01	99.97	0.88
+SS-24	Pseudomonadota; Gammaproteobacteria; Woeseiales; Woeseiaceae; JAACFB01	98.25	0.11
+SS-25	Pseudomonadota; Gammaproteobacteria; Woeseiales; Woeseiaceae; JAACFB01	97.6	0.14
+SS-26	Pseudomonadota; Gammaproteobacteria; Chromatiales; Sedimenticolaceae; Sva-25	97.17	2.76
+SS-27	Pseudomonadota; Gammaproteobacteria; Pseudomonadales; Pseudohongiellaceae; UBA9145	92.97	0.48
+SS-28	Pseudomonadota; Gammaproteobacteria; Xanthomonadales; SZUA-36; SZUA-36 (fam.)	94.95	0.75
+SS-29	Pseudomonadota; Gammaproteobacteria; Xanthomonadales; SZUA-36; Marinihelvus	96.92	0.92

@@ -1,0 +1,10 @@
+Stage	n	Result
+Combined bin-summary rows	1,450	Included 42 DASToolUnbinned identifiers
+Canonical genome bins	1,408	After removal of DASToolUnbinned rows
+Operational HQ candidates	56	Completeness ≥90%; contamination ≤5%
+Operational MQ bins	561	Not HQ; completeness ≥50%; contamination ≤10%
+Operational LQ bins	791	Below the operational MQ thresholds
+GUNC pass	56/56	Complementary QC; no candidate removed
+Candidates retained for ANI clustering	38	Passed the standard internal dRep quality filter
+MAG29 representatives	29	Retained after the documented dRep quality and ANI workflow (secondary ANI = 0.95)
+Strict MIMAG-HQ	26/29	SS-11, SS-17 and SS-29 retained as non-strict
