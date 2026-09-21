@@ -1,0 +1,3 @@
+run_id	purpose	input_count	output_count	command_source	completion_evidence	status	note
+hq56_single_sample_drep_gtdbtk_18330	final MAG29 dRep	56	29	${PROJECT_HOME}/final_results/33_HQ56_SINGLE_SAMPLE_DREP_GTDBTK_BRANCH/slurm/01_hq56_single_sample_drep_gtdbtk.sbatch	logger.log says dRep dereplicate finished; Wdb.csv has 29 winners	PASS_WITH_CAVEAT	recovered SLURM job exited 1 only after dRep, during the downstream GTDB-Tk call; dRep artefacts are complete.
+hq4_coassembly_drep_gtdbtk_retry_18333	CoA4 dRep	4	4	${PROJECT_HOME}/final_results/34_HQ4_COASSEMBLY_DREP_GTDBTK_BRANCH/slurm/02_hq4_coassembly_drep_gtdbtk_retry.sbatch	SLURM COMPLETED 0:0; Wdb.csv has 4 winners	PASS	Separate CoA4 catalogue.

@@ -1,0 +1,5 @@
+${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/02_coassembly_drep/08_waterburya_comparison/references/GCA_965214815.1.fna
+${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/02_coassembly_drep/08_waterburya_comparison/references/GCA_965217895.1.fna
+${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/02_coassembly_drep/08_waterburya_comparison/references/GCA_965218345.1.fna
+${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/02_coassembly_drep/08_waterburya_comparison/references/GCA_965218645.1.fna
+${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/02_coassembly_drep/08_waterburya_comparison/references/GCF_020640915.1.fna

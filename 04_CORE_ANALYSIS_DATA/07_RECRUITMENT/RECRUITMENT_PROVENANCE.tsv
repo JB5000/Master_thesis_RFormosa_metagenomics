@@ -1,0 +1,10 @@
+field	value	evidence_status	notes
+source	34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/{01_single_sample_drep,02_coassembly_drep}/99_mapping	PRIMARY	authoritative MAG29 and CoA4 recruitment outputs
+references	MAG29 = 29 genomes/568 contigs; CoA4 = 4 genomes/170 contigs; mapped separately	PRIMARY	contig_to_MAG.tsv per branch
+mapper	minimap2 2.17-r941; -ax map-ont	PRIMARY	All 138 minimap2 logs and representative BAM @PG headers record the version and command.
+alignment_processing	samtools 1.9; view -F 2308 -q 10, sort, index, idxstats	PRIMARY	Recovered mapping scripts use fixed ${HPC_SOFTWARE_ROOT}/bin/samtools, verified as samtools/htslib 1.9.
+coverage_regeneration	samtools 1.23 coverage; 13 July 2026	PRIMARY	Later version used only for coverage regeneration; recovered job completed.
+metric	length-weighted mean depth = sum(contig_mean_depth x contig_length)/sum(contig_length)	PRIMARY	uniform for all 33 representatives
+subsamples	69 equal-depth profiles per branch: 23 samples x 3; 315147 reads each	PRIMARY	three replicates averaged arithmetically per date
+outputs	MAG29 and CoA4 mean-coverage and row-z-score matrices	PRIMARY	figure_sources/recruitment
+metric_scope	row z-score is calculated within each MAG across dates; the matrix has no between-MAG absolute-abundance scale	AUTHORITATIVE

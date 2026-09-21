@@ -1,0 +1,2 @@
+${PROJECT_HOME}/final_results/34_HQ4_COASSEMBLY_DREP_GTDBTK_BRANCH/runs/hq4_coassembly_drep_gtdbtk_retry_18333/drep_out/dereplicated_genomes/METAMDBG-MetaBinnerRefined-group-group_2025_4samples.1.fa
+${PROJECT_HOME}/final_results/34_HQ4_COASSEMBLY_DREP_GTDBTK_BRANCH/runs/hq4_coassembly_drep_gtdbtk_retry_18333/drep_out/dereplicated_genomes/METAMDBG-SemiBin2Refined-group-group_2025_4samples.0.fa

@@ -1,0 +1,58 @@
+source_sample	source_run	bin_id	completeness_checkm2	contamination_checkm2	pass_GUNC	selection_effect
+MG240104	run_20260416_122844	METAMDBG-SemiBin2Refined-group-group_240104.0.fa	90.47	4.94	True	none; retained by CheckM2 criteria
+MG220428	run_20260418_161743	FLYE-MaxBin2Refined-group-group_220428.004.fa	98.81	1.16	True	none; retained by CheckM2 criteria
+MG220428	run_20260418_161743	FLYE-MetaBAT2Refined-group-group_220428.91.fa	92.36	0.42	True	none; retained by CheckM2 criteria
+MG220428	run_20260418_161743	METAMDBG-MaxBin2Refined-group-group_220428.005.fa	97.6	0.14	True	none; retained by CheckM2 criteria
+MG220428	run_20260418_161743	METAMDBG-SemiBin2Refined-group-group_220428.7.fa	95.87	4.52	True	none; retained by CheckM2 criteria
+MG240304	run_20260417_045201	FLYE-SemiBin2Refined-group-group_240304.1.fa	93.62	4.67	True	none; retained by CheckM2 criteria
+MG240304	run_20260417_045201	METAMDBG-MetaBAT2Refined-group-group_240304.148.fa	95.51	1.93	True	none; retained by CheckM2 criteria
+MG240304	run_20260417_045201	METAMDBG-MetaBAT2Refined-group-group_240304.160.fa	97.1	3.58	True	none; retained by CheckM2 criteria
+MG240304	run_20260417_045201	METAMDBG-MetaBAT2Refined-group-group_240304.5.fa	94.1	4.46	True	none; retained by CheckM2 criteria
+MG231025	run_20260416_063757	METAMDBG-MetaBAT2Refined-group-group_231025.73.fa	94.16	0.21	True	none; retained by CheckM2 criteria
+MG231025	run_20260416_063757	METAMDBG-SemiBin2Refined-group-group_231025.0.fa	91.94	0.11	True	none; retained by CheckM2 criteria
+MG240905	run_20260416_091821	METAMDBG-MaxBin2Refined-group-group_240905.003.fa	92.46	4.64	True	none; retained by CheckM2 criteria
+MG240905	run_20260416_091821	METAMDBG-SemiBin2Refined-group-group_240905.0.fa	90.45	0.09	True	none; retained by CheckM2 criteria
+MG221021	run_20260418_024525	FLYE-MetaBAT2Refined-group-group_221021.108.fa	97.3	4.24	True	none; retained by CheckM2 criteria
+MG221021	run_20260418_024525	FLYE-MetaBinnerRefined-group-group_221021.3.fa	92.64	3.84	True	none; retained by CheckM2 criteria
+MG221021	run_20260418_024525	METAMDBG-MetaBinnerRefined-group-group_221021.1.fa	95.28	1.58	True	none; retained by CheckM2 criteria
+MG221021	run_20260418_024525	METAMDBG-MetaBinnerRefined-group-group_221021.2.fa	92.23	4.19	True	none; retained by CheckM2 criteria
+MG221021	run_20260418_024525	METAMDBG-SemiBin2Refined-group-group_221021.1.fa	96.61	4.28	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	FLYE-CONCOCTRefined-group-group_240416.29.fa	95.56	1.24	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-CONCOCTRefined-group-group_240416.290.fa	96.92	0.92	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-MaxBin2Refined-group-group_240416.034.fa	93.06	4.47	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.100.fa	95.54	1.13	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.203.fa	92.0	2.77	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.419.fa	92.97	0.48	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.579.fa	99.59	1.49	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.71.fa	95.62	1.96	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.722.fa	98.48	0.59	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.82.fa	94.95	0.75	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.820.fa	97.17	2.76	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	FLYE-MetaBAT2Refined-group-group_240416.833.fa	93.25	3.85	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	METAMDBG-CONCOCTRefined-group-group_240416.113.fa	91.31	4.85	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-CONCOCTRefined-group-group_240416.97.fa	96.55	3.21	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MaxBin2Refined-group-group_240416.001.fa	94.01	0.05	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MaxBin2Refined-group-group_240416.002.fa	97.79	1.39	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MaxBin2Refined-group-group_240416.006.fa	99.55	0.28	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MaxBin2Refined-group-group_240416.014.fa	95.57	0.83	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MaxBin2Refined-group-group_240416.022.fa	95.37	0.25	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MaxBin2Refined-group-group_240416.030.fa	91.06	1.3	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.112.fa	93.9	4.84	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.1169.fa	99.97	0.88	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.162.fa	93.05	0.74	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.197.fa	96.34	1.83	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.257.fa	100.0	0.1	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.291.fa	95.11	1.05	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.313.fa	100.0	0.01	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.33.fa	91.03	3.94	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.486.fa	97.25	3.59	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.674.fa	90.43	1.33	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.708_sub.fa	93.19	3.69	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.795.fa	98.25	0.11	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.896_sub.fa	90.23	0.21	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBAT2Refined-group-group_240416.900.fa	96.98	3.52	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBinnerRefined-group-group_240416.1.fa	99.61	1.78	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBinnerRefined-group-group_240416.2.fa	97.01	2.76	True	none; retained by CheckM2 criteria
+MG240416	run_20260601_144953	METAMDBG-MetaBinnerRefined-group-group_240416.5.fa	99.2	1.51	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+MG240416	run_20260601_144953	METAMDBG-MetaBinnerRefined-group-group_240416.6.fa	95.41	3.41	MISSING_GUNC_OUTPUT	no verified GUNC result; nevertheless the bin is present in the 56-input dRep manifest
+

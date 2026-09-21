@@ -1,0 +1,14 @@
+[M::mm_idx_gen::2.879*1.41] collected minimizers
+[M::mm_idx_gen::3.506*2.00] sorted minimizers
+[M::main::3.508*2.00] loaded/built the index for 568 target sequence(s)
+[M::mm_mapopt_update::3.817*1.92] mid_occ = 13
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 568
+[M::mm_idx_stat::4.049*1.87] distinct minimizers: 17871694 (84.55% are singletons); average occurrences: 1.222; average spacing: 5.355
+[M::worker_pipeline::43.862*8.24] mapped 78354 sequences
+[M::worker_pipeline::62.266*8.31] mapped 77932 sequences
+[M::worker_pipeline::80.468*8.45] mapped 78047 sequences
+[M::worker_pipeline::98.690*6.96] mapped 78256 sequences
+[M::worker_pipeline::99.190*6.93] mapped 2558 sequences
+[M::main] Version: 2.17-r941
+[M::main] CMD: ${HPC_SOFTWARE_ROOT}/opt/minimap2-2.17_x64-linux/minimap2 -t 16 -ax map-ont ${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/01_single_sample_drep/99_mapping/reference/combined_reps.fna ${PROJECT_HOME}/final_results/02_krakenuniq_subsamples/subsampling_min_reads_3reps/subsamples/EMOBON_RFORMOSA_240304_MERGED__sub315147__rep1.fastq.gz
+[M::main] Real time: 99.498 sec; CPU: 687.370 sec; Peak RSS: 5.231 GB

@@ -1,0 +1,8 @@
+category	definition	count	status	primary_evidence
+HQ_candidate	Completeness >=90 and contamination <=5	56	PASS	23 final bin_summary.tsv files, excluding DASToolUnbinned
+MQ	Not HQ; completeness >=50 and contamination <=10	561	PASS	23 final bin_summary.tsv files, excluding DASToolUnbinned
+LQ	Remaining retained binned entries	791	PASS	23 final bin_summary.tsv files, excluding DASToolUnbinned
+excluded	bin identifier contains DASToolUnbinned	42	PASS	23 final bin_summary.tsv files
+retained_total	HQ+MQ+LQ	1408	PASS	56+561+791
+all_bin_summary_rows	retained_total+excluded	1450	PASS	final bin_summary.tsv files
+

@@ -1,0 +1,9 @@
+component	value	evidence_level	evidence_location	status	note
+workflow	GTDB-Tk classify_wf	PRIMARY	institutional HPC recovered job gtdbtk.log	PASS	Separate GTDB-only retry after the combined dRep/GTDB job failed downstream.
+command	gtdbtk classify_wf --batchfile <gtdbtk_batchfile.tsv> --out_dir <gtdbtk_out> --cpus 16	PRIMARY	institutional HPC recovered job gtdbtk.log	PASS	Redacted here; no additional classification options documented in the recovered log.
+software_version	GTDB-Tk v2.5.2	PRIMARY	institutional HPC recovered job gtdbtk.log	PASS	
+reference_data	GTDB release r226	PRIMARY	institutional HPC batch script and gtdbtk.log	PASS	Reference path configured as gtdbtk_release226.
+container	gtdbtk-2.5.2--pyh1f0d9b5_0.img	PRIMARY	institutional HPC batch script	PASS	Image digest not recovered.
+input	29 single-sample dRep winners	PRIMARY	institutional HPC gtdbtk batchfile/log	PASS	Log records 5 genomes ANI-screened and 24 marker-classified.
+output	classify/gtdbtk.bac120.summary.tsv	PRIMARY	institutional HPC gtdbtk output	PASS	Bacterial taxonomy summary used for taxonomic labels.
+taxonomy_assignment_rule	GTDB-Tk output taxonomy string	PRIMARY	institutional HPC output	PASS	No manual taxonomic override is recorded.

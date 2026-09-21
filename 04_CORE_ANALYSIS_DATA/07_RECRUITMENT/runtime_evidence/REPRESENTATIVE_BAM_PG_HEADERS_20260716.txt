@@ -1,0 +1,9 @@
+###############################################################################
+#                                                                             #
+#              			    institutional HPC	                              #
+#                                                                             #   
+###############################################################################
+### ${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/01_single_sample_drep/99_mapping/bam/S_21_10_22__sub315147__r1.sorted.bam
+@PG	ID:minimap2	PN:minimap2	VN:2.17-r941	CL:minimap2 -t 16 -ax map-ont ${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/01_single_sample_drep/99_mapping/reference/combined_reps.fna ${PROJECT_HOME}/final_results/02_krakenuniq_subsamples/subsampling_min_reads_3reps/subsamples/EMOBON_RFORMOSA_211022_MERGED__sub315147__rep1.fastq.gz
+### ${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/02_coassembly_drep/99_mapping/bam/S_21_10_22__sub315147__r1.sorted.bam
+@PG	ID:minimap2	PN:minimap2	VN:2.17-r941	CL:minimap2 -t 3 -ax map-ont ${PROJECT_HOME}/final_results/34_MAG_RERUN_REANNOTATION_AND_RECRUITMENT/02_coassembly_drep/99_mapping/reference/combined_reps.fna ${PROJECT_HOME}/final_results/02_krakenuniq_subsamples/subsampling_min_reads_3reps/subsamples/EMOBON_RFORMOSA_211022_MERGED__sub315147__rep1.fastq.gz

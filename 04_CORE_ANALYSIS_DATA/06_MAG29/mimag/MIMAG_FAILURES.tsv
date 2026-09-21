@@ -1,0 +1,5 @@
+authoritative_ID	source_HQMAG_ID	original_bin_ID	source_table_ID	failure_basis	resolution_status	current_bundle_identifier_note
+SS-11	HQMAG_005	METAMDBG-MetaBAT2Refined-group-group_240304.160	SS-17	All rRNAs present; 17/20 standard tRNA amino acids	RESOLVED	Current bundle ID SS-11 (JABZFP01).
+SS-17	HQMAG_009	FLYE-MetaBAT2Refined-group-group_240416.203	SS-03	Missing 16S and 23S rRNA; 20/20 standard tRNA amino acids	RESOLVED	Current bundle ID SS-17 (CAJQQK01).
+SS-29	HQMAG_008	FLYE-CONCOCTRefined-group-group_240416.290	SS-01	Missing 23S and 5S rRNA; 18/20 standard tRNA amino acids	RESOLVED	Current bundle ID SS-29 (Marinihelvus).
+CoA-1	UNVERIFIABLE	FLYE-MetaBAT2Refined-group-group_2025_4samples.8	NOT_APPLICABLE	Only 16S rRNA; 19/20 standard tRNA amino acids	RESOLVED	Current bundle ID CoA-1.

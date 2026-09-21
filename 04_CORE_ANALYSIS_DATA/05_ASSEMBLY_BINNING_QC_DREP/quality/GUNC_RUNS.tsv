@@ -1,0 +1,3 @@
+scope	GUNC_version	database	input_result_records	status	evidence
+single-sample nf-core/mag QC	UNVERIFIABLE	progenomes_2.1 indicated by raw filename	1213 result records registered; coverage is incomplete relative to 1408 retained bins	PASS_WITH_CAVEAT	per-sample gunc_summary.tsv and raw GUNC.progenomes_2.1.maxCSS_level.tsv
+

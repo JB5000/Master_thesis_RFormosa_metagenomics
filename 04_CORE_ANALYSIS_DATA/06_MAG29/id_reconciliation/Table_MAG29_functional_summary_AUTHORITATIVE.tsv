@@ -1,0 +1,30 @@
+MAG_ID	Phylum	Genus	Total_proteins_annotated	Proteins_with_COG	Proteins_with_KEGG	CAZymes	VFDB_hits	BGCs_GECCO	antiSMASH_regions
+SS-01	Bacteroidota	Site-B15	2428	2171	1218	32	223	2	4
+SS-02	Bacteroidota	JAJDFU01	4064	3795	1899	54	433	3	6
+SS-03	Bacteroidota	JARQTN01	3988	3688	1788	83	384	6	6
+SS-04	Actinomycetota	Jiangellaceae (fam.)	2498	2354	1461	37	331	2	5
+SS-05	Actinomycetota	Sva-07	2894	2740	1681	37	433	4	7
+SS-06	Actinomycetota	JAHEDH01	3523	3336	1971	30	541	3	3
+SS-07	Cyanobacteriota	Waterburya	5141	4556	2178	57	503	15	18
+SS-08	Cyanobacteriota	Limnothrix	3291	3001	1766	43	340	1	6
+SS-09	Desulfobacterota	JABDQA01	3786	3589	2214	31	462	1	10
+SS-10	Desulfobacterota	BM002	3705	3486	2069	37	518	0	8
+SS-11	Desulfobacterota	JABZFP01	4167	3903	2354	41	570	3	13
+SS-12	Desulfobacterota	Desulfosarcina	4558	4261	2463	40	653	3	12
+SS-13	Desulfobacterota	JARRKU01	3640	3410	2054	33	472	0	7
+SS-14	Pseudomonadota	JAHTBL01	3136	2918	1934	27	427	2	6
+SS-15	Pseudomonadota	Methyloceanibacter	2691	2538	1665	26	328	3	11
+SS-16	Pseudomonadota	Methyloceanibacter	2509	2357	1563	25	310	1	7
+SS-17	Pseudomonadota	CAJQQK01	4467	4257	2540	25	589	2	11
+SS-18	Pseudomonadota	BMS3Bbin11	2811	2629	1748	34	427	1	6
+SS-19	Pseudomonadota	JACNJF01	2952	2763	1814	21	459	0	5
+SS-20	Pseudomonadota	JABDQW01	2934	2715	1717	30	388	0	3
+SS-21	Pseudomonadota	GCA-2746365	2691	2514	1639	35	360	0	4
+SS-22	Pseudomonadota	JAACFE01	3441	3242	2031	28	445	1	5
+SS-23	Pseudomonadota	JBFGFX01	3696	3512	2127	28	511	3	7
+SS-24	Pseudomonadota	JAACFB01	3160	2971	1864	29	422	5	8
+SS-25	Pseudomonadota	JAACFB01	3153	2962	1851	32	449	5	8
+SS-26	Pseudomonadota	Sva-25	2832	2645	1786	21	375	0	2
+SS-27	Pseudomonadota	UBA9145	3308	3095	1914	33	412	2	3
+SS-28	Pseudomonadota	SZUA-36 (fam.)	3392	3179	1921	38	473	4	4
+SS-29	Pseudomonadota	Marinihelvus	3251	3077	1928	34	436	4	7

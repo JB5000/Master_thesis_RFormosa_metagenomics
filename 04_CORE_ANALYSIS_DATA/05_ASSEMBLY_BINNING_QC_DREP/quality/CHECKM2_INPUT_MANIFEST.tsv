@@ -1,0 +1,25 @@
+source_sample	source_run	retained_binned_input_count	excluded_unbinned_count	primary_bin_summary_path	status
+MG211022	run_20260415_211106	34	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG211022/results/run_20260415_211106/GenomeBinning/bin_summary.tsv	PASS
+MG211220	run_20260414_125635	9	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG211220/results/run_20260414_125635/GenomeBinning/bin_summary.tsv	PASS
+MG220224	run_20260414_214141	26	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG220224/results/run_20260414_214141/GenomeBinning/bin_summary.tsv	PASS
+MG220428	run_20260418_161743	122	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG220428/results/run_20260418_161743/GenomeBinning/bin_summary.tsv	PASS
+MG220629	run_20260414_224226	6	1	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG220629/results/run_20260414_224226/GenomeBinning/bin_summary.tsv	PASS
+MG220909	run_20260415_090420	24	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG220909/results/run_20260415_090420/GenomeBinning/bin_summary.tsv	PASS
+MG221021	run_20260418_024525	110	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG221021/results/run_20260418_024525/GenomeBinning/bin_summary.tsv	PASS
+MG221216	run_20260415_055420	36	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG221216/results/run_20260415_055420/GenomeBinning/bin_summary.tsv	PASS
+MG230420	run_20260415_201034	37	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG230420/results/run_20260415_201034/GenomeBinning/bin_summary.tsv	PASS
+MG230703	run_20260415_084057	27	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG230703/results/run_20260415_084057/GenomeBinning/bin_summary.tsv	PASS
+MG230906	run_20260414_202323	22	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG230906/results/run_20260414_202323/GenomeBinning/bin_summary.tsv	PASS
+MG231025	run_20260416_063757	72	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG231025/results/run_20260416_063757/GenomeBinning/bin_summary.tsv	PASS
+MG240104	run_20260416_122844	35	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG240104/results/run_20260416_122844/GenomeBinning/bin_summary.tsv	PASS
+MG240304	run_20260417_045201	80	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG240304/results/run_20260417_045201/GenomeBinning/bin_summary.tsv	PASS
+MG240416	run_20260601_144953	522	0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG240416/results/run_20260601_144953/GenomeBinning/bin_summary.tsv	PASS
+MG240705	run_20260417_025508	55	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG240705/results/run_20260417_025508/GenomeBinning/bin_summary.tsv	PASS
+MG240905	run_20260416_091821	60	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG240905/results/run_20260416_091821/GenomeBinning/bin_summary.tsv	PASS
+MG241106	run_20260417_072348	63	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG241106/results/run_20260417_072348/GenomeBinning/bin_summary.tsv	PASS
+MG250307	run_20260414_125635	19	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG250307/results/run_20260414_125635/GenomeBinning/bin_summary.tsv	PASS
+MG250430	run_20260414_143455	7	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG250430/results/run_20260414_143455/GenomeBinning/bin_summary.tsv	PASS
+MG250710	run_20260414_170153	13	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG250710/results/run_20260414_170153/GenomeBinning/bin_summary.tsv	PASS
+MG250912	run_20260415_202352	28	2	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG250912/results/run_20260415_202352/GenomeBinning/bin_summary.tsv	PASS
+MG251125	run_20260414_125635	1	1	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/MG251125/results/run_20260414_125635/GenomeBinning/bin_summary.tsv	PASS
+

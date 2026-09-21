@@ -1,0 +1,25 @@
+source_sample	source_run	retained_bins	HQ_candidates	MQ	LQ	DASToolUnbinned_excluded	CheckM2_version	primary_summary_path
+MG211022	run_20260415_211106	34	0	14	20	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG211220	run_20260414_125635	9	0	2	7	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG220224	run_20260414_214141	26	0	9	17	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG220428	run_20260418_161743	122	4	50	68	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG220629	run_20260414_224226	6	0	0	6	1	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG220909	run_20260415_090420	24	0	6	18	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG221021	run_20260418_024525	110	5	40	65	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG221216	run_20260415_055420	36	0	8	28	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG230420	run_20260415_201034	37	0	14	23	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG230703	run_20260415_084057	27	0	9	18	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG230906	run_20260414_202323	22	0	5	17	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG231025	run_20260416_063757	72	2	27	43	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG240104	run_20260416_122844	35	1	12	22	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG240304	run_20260417_045201	80	4	33	43	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG240416	run_20260601_144953	522	38	243	241	0	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG240705	run_20260417_025508	55	0	17	38	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG240905	run_20260416_091821	60	2	24	34	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG241106	run_20260417_072348	63	0	23	40	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG250307	run_20260414_125635	19	0	7	12	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG250430	run_20260414_143455	7	0	2	5	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG250710	run_20260414_170153	13	0	6	7	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG250912	run_20260415_202352	28	0	10	18	2	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+MG251125	run_20260414_125635	1	0	0	1	1	1.1.0	${PROJECT_HOME}/final_results/00_heavy_base_outputs/30_nfccoremag_all_samples/<sample>/results/<run>/GenomeBinning/QC/checkm2_summary.tsv
+
