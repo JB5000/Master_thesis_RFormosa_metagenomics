@@ -20,8 +20,3 @@ from raw FASTQs additionally requires:
 - nf-core/taxprofiler 1.2.4 and its documented software environment;
 - the `krakenuniq_standard` database build dated 2022-06-16, or a documented
   replacement database if an exact historical rerun is not required.
-
-No thesis prose, supervisor comments or original FASTQ data are part of this
-repository. Active scripts and configuration are portable; a small number of
-primary tool-report headers retain their historical working-directory field as
-provenance only.

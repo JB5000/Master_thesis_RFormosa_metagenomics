@@ -1,10 +1,8 @@
 # Ria Formosa scientific data and figure-reproduction bundle
 
-This repository is a scientific data and reproducibility package, not a copy
-of the thesis. It contains the final figure assets, the data used to make
-them, relevant result tables, analysis inputs and portable scripts. Thesis
-prose, captions, bibliography management and supervisor comments are not
-included.
+This repository is a scientific data and reproducibility package. It contains
+the final figure assets, the data used to make them, relevant result tables,
+analysis inputs and portable scripts.
 
 ## Repository map
 
