@@ -1,7 +1,7 @@
 # Experimental protocol photos — with the student's handwritten annotations
 
-**FOR CHATGPT:** These 11 `.jpeg` files ARE the **original experimental (wet-lab) protocols** used in this
-thesis — printed manufacturer protocols (QIAGEN DNeasy PowerSoil Pro; Oxford Nanopore Native Barcoding Kit 24
+These 11 `.jpeg` files are the **original experimental (wet-lab) protocols** used in this
+study — printed manufacturer protocols (QIAGEN DNeasy PowerSoil Pro; Oxford Nanopore Native Barcoding Kit 24
 V14, SQK-NBD114.24) **annotated by hand by the student** with the exact parameters and modifications actually
 used. **You can open and read these images.** Use them as the primary source for Methods sections 2.1–2.4
 (sampling, DNA extraction, library preparation, sequencing/loading). They corroborate and extend

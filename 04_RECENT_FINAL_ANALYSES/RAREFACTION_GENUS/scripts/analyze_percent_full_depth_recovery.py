@@ -316,7 +316,7 @@ def main() -> None:
     overall_paths = save_figure(fig, "rarefaction_percent_full_depth_genus_overall")
     plt.close(fig)
 
-    audit = {
+    provenance_record = {
         "status": "PASS",
         "rank": "genus",
         "full_depth_reference_definition": (
@@ -360,9 +360,9 @@ def main() -> None:
             for row in enriched_rows
         ),
     }
-    audit_path = PROVENANCE_DIR / "percent_full_depth_genus_audit.json"
-    audit_path.write_text(json.dumps(audit, indent=2, sort_keys=True) + "\n")
-    print(json.dumps(audit, indent=2, sort_keys=True))
+    provenance_record_path = PROVENANCE_DIR / "percent_full_depth_genus_provenance.json"
+    provenance_record_path.write_text(json.dumps(provenance_record, indent=2, sort_keys=True) + "\n")
+    print(json.dumps(provenance_record, indent=2, sort_keys=True))
 
 
 if __name__ == "__main__":

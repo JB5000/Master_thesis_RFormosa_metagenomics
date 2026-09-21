@@ -2,7 +2,7 @@
 
 ## Current bundle identifier scheme
 
-The locked thesis, current figure files and table files use the renumbered identifiers `SS-01` to `SS-29`. Some primary source tables use a different SS numbering scheme. The retained crosswalk links both schemes through original bin ID.
+The current figure files and table files use the renumbered identifiers `SS-01` to `SS-29`. Some primary source tables use a different SS numbering scheme. The retained crosswalk links both schemes through original bin ID.
 
 The three labels with the clearest potential for misinterpretation are:
 

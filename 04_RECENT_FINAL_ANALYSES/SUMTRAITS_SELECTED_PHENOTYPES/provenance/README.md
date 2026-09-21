@@ -7,7 +7,7 @@ profiles: 23 samples, three independent replicates per sample and 315,147 reads
 per replicate.
 
 The figure follows the environmental and metabolic themes used in the
-porTraits/GenomeSPOT thesis panels. It does not treat taxonomically inferred
+porTraits/GenomeSPOT panels. It does not treat taxonomically inferred
 sumTraits phenotypes as marker-gene observations. The exact sumTraits trait and
 feature behind every displayed row are recorded in the long-form values table.
 
@@ -44,7 +44,7 @@ SHA-256:
 
 `158f0066329bcc94f4303ad4815f4405476539c483f37c32bbfd0e9abfb59fae`
 
-No thesis document or locked data bundle is modified by this working asset.
+This asset does not modify source archives or retained inputs.
 
 ## Selected sediment-biogeochemistry figure
 
@@ -82,7 +82,7 @@ The complete five-row coverage heatmap is retained as:
 
 - `figures/sumTraits_trait_specific_annotation_coverage_supplementary.*`.
 
-The thesis-ready export is approximately 180 mm wide at 300 dpi. Numerical
+The publication-ready export is approximately 180 mm wide at 300 dpi. Numerical
 cell annotations are omitted to keep the 23 sampling dates visually separate;
 the exact percentages and full explanatory caption are retained outside the
 image.

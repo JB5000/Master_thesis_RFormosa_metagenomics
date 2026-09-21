@@ -11,7 +11,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-REPORT = ROOT / "provenance" / "VALIDATION_REPORT.txt"
+REPORT = ROOT / "provenance" / "QC_RUN_CHECKS.tsv"
 
 EXPECTED_SOURCE_HASHES = {
     "proksee_input/SS-07/genbank/SS-07.gbff": "ae34641a3dd2a757217cf10f08b7bdd865f51bc810771d9f4a990f3040df135c",
@@ -103,15 +103,12 @@ def main() -> None:
     lines.append(f"PASS\tProksee project\t{response['url']}")
 
     required_exports = {
-        "exports/SS-07_Proksee_pilot.png": 1000,
-        "exports/SS-07_Proksee_pilot.svg": 1000,
         "exports/SS-07_Proksee_pilot.json": 1000,
-        "exports/SS-07_Proksee_batch_report.png": 1000,
         "proksee_output/report.html": 1000,
-        "exports/SS-07_Bakta_general.png": 1000,
-        "exports/SS-07_Bakta_general.svg": 1000,
-        "exports/SS-07_MIMAG_RNA.png": 1000,
-        "exports/SS-07_MIMAG_RNA.svg": 1000,
+        "proksee_output/data/genome_maps/SS-07.cgview.json": 1000,
+        "proksee_variants/SS-07_Bakta_general.cgview.json": 1000,
+        "proksee_variants/SS-07_MIMAG_RNA.cgview.json": 1000,
+        "proksee_variants/SS-07_MIMAG_RNA_coverage.cgview.json": 1000,
     }
     for relative, minimum_size in required_exports.items():
         size = (ROOT / relative).stat().st_size

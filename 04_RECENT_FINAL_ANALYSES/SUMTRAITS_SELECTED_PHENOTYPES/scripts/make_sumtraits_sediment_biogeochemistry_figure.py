@@ -576,7 +576,7 @@ def main() -> None:
 
     print(
         "Generated selected-trait figure: "
-        f"{len(figure_traits)} displayed traits, {len(TRAITS)} audited traits, "
+        f"{len(figure_traits)} displayed traits, {len(TRAITS)} selected traits, "
         f"{len(sample_order)} samples, "
         "three replicates per sample."
     )

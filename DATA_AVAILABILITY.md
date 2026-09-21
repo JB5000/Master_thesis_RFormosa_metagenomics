@@ -1,4 +1,4 @@
-# Data availability and scope
+# Data availability
 
 This repository contains all final figure assets, figure-level source data,
 result tables, scripts, configuration and retained workflow provenance needed

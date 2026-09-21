@@ -18,7 +18,7 @@ analysis inputs and portable scripts.
 - `05_METHODS_AND_VALIDATION/` — BLASTn target-screen outputs and relevant
   workflow/provenance records.
 - `06_RESULT_TABLES/` — descriptive result tables and exact plotted-value
-  matrices, without thesis table numbering.
+  matrices.
 - `ASSET_MANIFEST.tsv` — one row per final figure or result table, linking it
   to source data and (where applicable) its generation script.
 

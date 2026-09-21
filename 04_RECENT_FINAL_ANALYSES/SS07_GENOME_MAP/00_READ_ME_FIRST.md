@@ -6,7 +6,7 @@ This directory contains a reproducible Proksee/CGView pilot for one final MAG29 
 
 - Final identifier: `SS-07`
 - Original bin identifier: `METAMDBG-MetaBAT2Refined-group-group_240416.257`
-- Source sample: `MG240416` / thesis sample identifier `S_24_04_16`
+- Source sample: `MG240416` / sample identifier `S_24_04_16`
 - Taxonomy: Cyanobacteriota; Cyanobacteriia; Cyanobacteriales; Xenococcaceae; Waterburya
 - CheckM2 completeness: 100.0%
 - CheckM2 contamination: 0.1%

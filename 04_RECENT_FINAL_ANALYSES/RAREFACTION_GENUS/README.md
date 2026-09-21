@@ -12,7 +12,7 @@ The analysis contains eight depths (1,000; 5,000; 10,000; 25,000; 50,000;
 100,000; 250,000; and 315,147 reads) and three independent subsamples per
 sample and depth.
 
-Genus was used because the auditable sample-specific full-depth genus
+Genus was used because the sample-specific full-depth genus
 richness table is retained. The equivalent full-depth species denominator
 was not retained, so a species-percentage version was not generated.
 
@@ -22,11 +22,11 @@ was not retained, so a species-percentage version was not generated.
 - `tables/`: all repeat-level values, sample/depth summaries, overall
   summaries, and the 23-sample full-depth baseline.
 - `scripts/`: executable analysis and figure-generation script.
-- `provenance/`: source record and machine-readable validation audit.
+- `provenance/`: source record and machine-readable provenance record.
 
 The 552 raw KrakenUniq report files and the upstream scheduler/subsampling
 scripts are retained at the CETA location recorded below and were not copied
-into this public bundle. The bundle retains every extracted repeat-level value,
+into this bundle. The bundle retains every extracted repeat-level value,
 seed where recorded, source class, report locator and report SHA-256.
 
 ## Heatmap at 315,147 reads
@@ -42,7 +42,7 @@ for this comparison. The archived baseline reports and the new subsamples
 represent different read-processing stages; this is recorded here so that
 the provenance remains explicit.
 
-## Validation
+## Recorded checks
 
 - 23 samples.
 - 8 depths.

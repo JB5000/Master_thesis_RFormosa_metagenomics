@@ -93,7 +93,7 @@ leg = [Line2D([0],[0], marker='s', color='none', markerfacecolor=c, markeredgeco
                       ("Coassembly",C["coassembly"]),("BLAST target screen",C["target"]),
                       ("Downstream characterisation",C["downstream"])]]
 fig.legend(handles=leg, loc="lower center", ncol=4, fontsize=8.5, frameon=True, bbox_to_anchor=(0.5, 0.02))
-# (the "comparable downstream / GenomeSPOT MAG29-only" note lives in the thesis caption, not in the image)
+# The workflow figure contains only the analytical steps represented by the image.
 fig.subplots_adjust(left=0.02, right=0.98, top=0.97, bottom=0.08)
 paths = save3(fig, OUT, "Fig_3.1_workflow")
 print("saved", paths['png'].name)

@@ -1,5 +1,5 @@
 field	value	evidence_status	evidence_path	notes
-pipeline	nf-core/taxprofiler v1.2.4 (v1.2.4-g1385e2f)	PRIMARY	equal_depth_krakenuniq_evidence/nf_core_taxprofiler_software_mqc_versions.yml	confirmed from the run's software-versions file (no longer copied from an old audit)
+pipeline	nf-core/taxprofiler v1.2.4 (v1.2.4-g1385e2f)	PRIMARY	equal_depth_krakenuniq_evidence/nf_core_taxprofiler_software_mqc_versions.yml	confirmed from the run's software-versions file
 nextflow	25.04.4	PRIMARY	equal_depth_krakenuniq_evidence/nf_core_taxprofiler_software_mqc_versions.yml
 classifier	KrakenUniq 1.0.4	PRIMARY	equal_depth_krakenuniq_evidence/nf_core_taxprofiler_software_mqc_versions.yml	KRAKENUNIQ_PRELOADEDKRAKENUNIQ: krakenuniq: 1.0.4
 database	krakenUniq_20220616_standard	PRIMARY	equal_depth_krakenuniq_evidence/databases_input.csv	db_path=${HPC_DATA_ROOT}/nf-core-mag-libs/krakenUniq_20220616_standard ; CONFIRMS the DB (was previously only "indicated")

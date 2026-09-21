@@ -10,6 +10,6 @@ Cdb.csv records a secondary clustering distance threshold of 0.05, equivalent to
 
 ## Origin of the 99% conflict
 
-The 99% statement was found in prior-audit material, including audit/public/tool_versions_table.tsv and an audit report generated from figure/text references. Those records do not contain the MAG29 dRep command or Cdb/Wdb output. The provenance status of the 99% wording is `UNVERIFIABLE`. The recovered MAG29 dRep command and Cdb/Wdb files record 0.95.
+An earlier 99% statement is not supported by the retained MAG29 dRep command or Cdb/Wdb output. The provenance status of that wording is `UNVERIFIABLE`. The recovered MAG29 dRep command and Cdb/Wdb files record 0.95.
 
 No retained later dRep run at 99% links to the 29 representative files. The current bundle dRep parameter field is 0.95.

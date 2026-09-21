@@ -1,7 +1,7 @@
 # Instrument & equipment photos (evidence of the hardware/software used)
 
-**FOR CHATGPT:** These 9 `.jpeg` files are **photographic evidence of the actual laboratory
-instruments and software** used in this thesis (taken by the student at CCMAR, University of
+These 9 `.jpeg` files are **photographic evidence of the actual laboratory
+instruments and software** used in this study (taken by the student at CCMAR, University of
 Algarve, 2026-07-02). **You can open and read them.** They document equipment identity, serial
 numbers and software versions for Methods 2.2–2.4. They complement the protocol photos in
 `../experimental_protocol_photos/`.
@@ -22,7 +22,7 @@ numbers and software versions for Methods 2.2–2.4. They complement the protoco
 | `equip_06_thermal_cycler_ABI2720_usage_log.jpeg` | Usage log — PCR / thermal cycler | **Applied Biosystems 2720 (ABI 2720)** thermal cycler (library end‑prep / incubation steps). |
 | `equip_07_NanoDrop_OneC_usage_log_SN_AZY1810751.jpeg` | Usage log — NanoDrop | NanoDrop **One^C, SN AZY1810751** (micro‑volume spectrophotometer). |
 | `equip_08_Retsch_MM400_beadbeater_instrument.jpeg` | The bead‑beater instrument | **Retsch MM400** mixer mill / tissue homogenizer (bead‑beating for DNA extraction). |
-| `equip_09_Retsch_MM400_beadbeater_usage_log_30Hz.jpeg` | Usage log — homogenizer | **Retsch MM400, SN 121730123G**; log shows bead‑beating at ~**30 Hz** (30 s cycles). This thesis' own setting is **30 Hz for 6 min** (see `../experimental_protocol_photos/` notes). |
+| `equip_09_Retsch_MM400_beadbeater_usage_log_30Hz.jpeg` | Usage log — homogenizer | **Retsch MM400, SN 121730123G**; log shows bead‑beating at ~**30 Hz** (30 s cycles). The study setting is **30 Hz for 6 min** (see `../experimental_protocol_photos/` notes). |
 
 ## Equipment provenance summary (for Methods)
 - **Sequencing:** Oxford Nanopore **PromethION 2 Solo** (PRO‑SEQ002), unit **P2S‑02226**, running **MinKNOW 26.01.15**.

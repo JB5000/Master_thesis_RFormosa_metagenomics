@@ -11,12 +11,9 @@ PASS	MIMAG rRNA evidence	9 features; 16S, 23S and 5S represented
 PASS	CGView Bakta general variant	5662 annotated features
 PASS	CGView MIMAG RNA variant	45 tRNA plus 9 rRNA features
 PASS	Proksee project	https://proksee.ca/projects/b7b9b4fc-f180-4405-a6f9-3449b6b5bd51
-PASS	output present	exports/SS-07_Proksee_pilot.png	1047072 bytes
-PASS	output present	exports/SS-07_Proksee_pilot.svg	5021099 bytes
 PASS	output present	exports/SS-07_Proksee_pilot.json	7235695 bytes
-PASS	output present	exports/SS-07_Proksee_batch_report.png	300332 bytes
 PASS	output present	proksee_output/report.html	5127 bytes
-PASS	output present	exports/SS-07_Bakta_general.png	1244935 bytes
-PASS	output present	exports/SS-07_Bakta_general.svg	5003197 bytes
-PASS	output present	exports/SS-07_MIMAG_RNA.png	707784 bytes
-PASS	output present	exports/SS-07_MIMAG_RNA.svg	100880 bytes
+PASS	output present	proksee_output/data/genome_maps/SS-07.cgview.json	8104756 bytes
+PASS	output present	proksee_variants/SS-07_Bakta_general.cgview.json	8095509 bytes
+PASS	output present	proksee_variants/SS-07_MIMAG_RNA.cgview.json	5961073 bytes
+PASS	output present	proksee_variants/SS-07_MIMAG_RNA_coverage.cgview.json	5984233 bytes

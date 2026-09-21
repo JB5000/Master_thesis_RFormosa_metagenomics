@@ -38,7 +38,7 @@ def coords(ds):
     d=f6[f6["dataset"]==ds].set_index("date_tag")[PC]; return d.reindex([s for s in meta.index if s in d.index])
 raw5, eq5 = coords("raw_bray"), coords("eqdepth_bray")
 order=[s for s in eq5.index if s in raw5.index]; eq5,raw5=eq5.loc[order],raw5.loc[order]
-# Authoritative all-dimension explained-variance values retained by the source analysis and audits.
+# Authoritative all-dimension explained-variance values retained by the source analysis.
 pc1v, pc2v = 50.9, 14.2
 eqM,rawM=eq5.values.astype(float),raw5.values.astype(float)
 _,aligned_raw_std,disp=procrustes_numpy(eqM,rawM); proc=float(np.sqrt(max(0,1-disp)))

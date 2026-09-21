@@ -1,7 +1,0 @@
-script_group	returncode	status
-rarefaction_main	0	PASS
-rarefaction_heatmap	0	PASS
-sumtraits_portraits_matched	0	PASS
-sumtraits_selected_traits	0	PASS
-historical_pcoa_method	0	PASS
-full_depth_read_qc	0	PASS
