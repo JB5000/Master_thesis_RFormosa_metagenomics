@@ -1,12 +1,12 @@
 field	value	evidence_status	evidence_path	notes
-pipeline	nf-core/taxprofiler v1.2.4 (v1.2.4-g1385e2f)	PRIMARY	equal_depth_krakenuniq_evidence/nf_core_taxprofiler_software_mqc_versions.yml	confirmed from the run's software-versions file
-nextflow	25.04.4	PRIMARY	equal_depth_krakenuniq_evidence/nf_core_taxprofiler_software_mqc_versions.yml
-classifier	KrakenUniq 1.0.4	PRIMARY	equal_depth_krakenuniq_evidence/nf_core_taxprofiler_software_mqc_versions.yml	KRAKENUNIQ_PRELOADEDKRAKENUNIQ: krakenuniq: 1.0.4
-database	krakenUniq_20220616_standard	PRIMARY	equal_depth_krakenuniq_evidence/databases_input.csv	db_path=${HPC_DATA_ROOT}/nf-core-mag-libs/krakenUniq_20220616_standard ; CONFIRMS the DB (was previously only "indicated")
-krakenuniq_params	run_krakenuniq=true; krakenuniq_batch_size=20; krakenuniq_save_reads=false	PRIMARY	equal_depth_krakenuniq_evidence/params_2026-05-16_12-38-27.json
-subsampling_seeds	69 deterministic seeds (23 samples x 3), target 315,147 reads	PRIMARY	../../02_methods_provenance_2_6_to_2_12/read_level/subsampling_tasks_69seeds.tsv	69 subsamples, 69 distinct seeds
-subsampler	SeqKit (equal-depth 315,147 reads per subsample)	SECONDARY	SUPPLEMENTARY_TABLE_S2 / prior evidence	seqkit (not seqtk); exact seqkit version not in this run's versions file
-genus_abundance_formula	genus-level relative abundance from KrakenUniq report; mean of the 3 equal-depth subsample profiles per sampling date	PRIMARY	retained run records 08_.../scripts/05_fig6_beta_diversity.py (_genus_rel_matrix_eqdepth_mean)	classified-read-only normalisation
+pipeline	nf-core/taxprofiler v1.2.4 (v1.2.4-g1385e2f)	PRIMARY	runtime_evidence/software_versions.yml	confirmed from the run's software-versions file
+nextflow	25.04.4	PRIMARY	runtime_evidence/software_versions.yml
+classifier	KrakenUniq 1.0.4	PRIMARY	runtime_evidence/software_versions.yml	KRAKENUNIQ_PRELOADEDKRAKENUNIQ: krakenuniq: 1.0.4
+database	krakenUniq_20220616_standard	PRIMARY	runtime_evidence/databases_input.csv	db_path=<data_root>/nf-core-mag-libs/krakenUniq_20220616_standard; confirms the database used
+krakenuniq_params	run_krakenuniq=true; krakenuniq_batch_size=20; krakenuniq_save_reads=false	PRIMARY	runtime_evidence/parameters.json
+subsampling_seeds	69 deterministic seeds (23 samples x 3), target 315,147 reads	PRIMARY	subsampling_tasks_69seeds_PORTABLE.tsv	69 subsamples, 69 distinct seeds
+subsampler	SeqKit (equal-depth 315,147 reads per subsample)	SECONDARY	subsampling_tasks_69seeds_PORTABLE.tsv	seqkit (not seqtk); exact seqkit version not in this run's versions file
+genus_abundance_formula	genus-level relative abundance from KrakenUniq report; mean of the 3 equal-depth subsample profiles per sampling date	PRIMARY	02_REPRODUCIBILITY/figure_sources/pcoa/eqdepth_mean23_genus_relative_abundance_matrix.tsv	classified-read-only normalisation
 unclassified_handling	classified-read-only relative abundance (unclassified excluded from the relative-abundance denominator)	SECONDARY	figure scripts / captions	state values are relative to the classified fraction
-run_dir	00_heavy_base_outputs/43_krakenuniq_equal_depth_23samples/results/taxprofiler_run-20260516_123800	PRIMARY	retained run records	execution_report + execution_trace + params retained
-FULL_DEPTH_layer	KrakenUniq 1.0.4 (taxprofiler v1.2.4); DB krakenUniq_20220616_standard	RESOLVED (2026-07-14)	shared DB <data_root>/nf-core-mag-libs/krakenUniq_20220616_standard; run named krakenUniq_stda	you MAY state version/DB; run-specific software_versions.yml not retained (version from install). See the retained source-verification record.
+run_dir	00_heavy_base_outputs/43_krakenuniq_equal_depth_23samples/results/taxprofiler_run-20260516_123800	PRIMARY	runtime_evidence/execution_trace.txt	execution trace and parameters retained
+FULL_DEPTH_layer	KrakenUniq 1.0.4 (taxprofiler v1.2.4); DB krakenUniq_20220616_standard	RESOLVED (2026-07-14)	03_CORE_ANALYSIS_DATA/02_READS_AND_QC/taxprofiler_20260430/pipeline_info/software_versions.yml	run-specific full-depth software metadata retained in the TaxProfiler record

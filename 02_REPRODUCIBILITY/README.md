@@ -6,7 +6,7 @@ recorded method commands. Scripts resolve inputs from the bundle and write
 regenerated files to `regenerated_output/` by default, or to the directory set
 through `RIA_FIGURE_OUTPUT`.
 
-Each final figure lists its source data and generation script in
+Each retained figure lists its source data and generation script in
 `../ASSET_MANIFEST.tsv`.
 
 The original full-depth TaxProfiler QC provenance is retained under

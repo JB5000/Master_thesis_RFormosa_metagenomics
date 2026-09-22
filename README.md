@@ -6,7 +6,9 @@ analysis inputs and portable scripts.
 
 ## Repository map
 
-- `01_FIGURES/final/` — the 24 final PNG figure assets.
+- `01_FIGURES/final/` — the 23 final PNG figure assets.
+- `01_FIGURES/candidate/` — one additional candidate figure, Figure S6,
+  retained separately pending final selection.
 - `02_REPRODUCIBILITY/` — figure source matrices, plotted-value tables,
   generation scripts, software/database versions and recorded commands.
 - `03_CORE_ANALYSIS_DATA/` — sampling, read QC, taxonomy, assembly/binning,
@@ -17,12 +19,15 @@ analysis inputs and portable scripts.
   workflow/provenance records.
 - `06_RESULT_TABLES/` — descriptive result tables and exact plotted-value
   matrices.
-- `ASSET_MANIFEST.tsv` — one row per final figure or result table, linking it
+- `ASSET_MANIFEST.tsv` — one row per retained figure or result table, linking it
   to source data and (where applicable) its generation script.
 - `02_REPRODUCIBILITY/METHOD_COMMANDS.md` — concise commands and parameters
   for the retained analyses.
 
 ## Canonical analysis constants
+
+The bundle retains 24 figure assets in total: 23 final figures and one
+candidate Figure S6.
 
 - 23 sampling dates; three equal-depth subsets per date; 315,147 reads per
   subset; 69 equal-depth FASTQ datasets.

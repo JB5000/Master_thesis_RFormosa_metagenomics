@@ -1,10 +1,10 @@
 field	value	evidence_path	evidence_status	notes
-workflow	porTraits (a metaTraits workflow, Bork Group)	porTraits_retained_run_evidence/portraits_run_eb4a50e1/README.md	AUTHOR_CONFIRMED+PRIMARY	The retained crate and author screenshot identify the workflow.
+workflow	porTraits (a metaTraits workflow, Bork Group)	TRAIT_PROVENANCE.tsv	AUTHOR_CONFIRMED+PRIMARY	The retained workflow record identifies the workflow.
 platform	CloWM (Cloud-based Workflow Manager)	retained workflow metadata	AUTHOR_CONFIRMED	-
 clowm_workflow_version	0.2.1	retained workflow metadata	AUTHOR_CONFIRMED	Authoritative workflow version used for the retained analysis.
 clowm_workflow_uuid	01989b88-8e1a-7856-8ec3-6658108b7273	retained workflow metadata	AUTHOR_CONFIRMED	Visible in the workflow-page URL.
 clowm_version_resource_id	945795b5a6577f881c451f292eb3a60d94d33eed	retained workflow metadata	AUTHOR_CONFIRMED	CloWM version resource ID; not a Git commit.
-workflow_code_git_commit	076c8b418c0bc69654d278e70d18f96bb7634f87	porTraits_retained_run_evidence/portraits_run_eb4a50e1/ro-crate-metadata.json	PRIMARY	Workflow-code commit recorded in retained RO-Crate.
+workflow_code_git_commit	076c8b418c0bc69654d278e70d18f96bb7634f87	TRAIT_PROVENANCE.tsv	PRIMARY	Workflow-code commit recorded in the retained workflow record.
 figure_component_used	GenomeSPOT v1.0.1 component outputs	figure_sources/genomespot	AUTHOR_CONFIRMED+PRIMARY	Environmental-preference figures use GenomeSPOT component outputs.
 submitted_genomes	33 = 29 MAG29 + 4 CoA4	author confirmation and retained outputs	AUTHOR_CONFIRMED+PRIMARY	
 genomespot_usable_outputs	29/29 MAG29 + 4/4 CoA4	GENOMESPOT_AVAILABILITY.tsv and figure_sources/genomespot	PRIMARY	No values were imputed.

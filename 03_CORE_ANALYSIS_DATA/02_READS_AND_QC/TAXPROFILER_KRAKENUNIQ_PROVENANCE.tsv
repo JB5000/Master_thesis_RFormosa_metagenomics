@@ -1,12 +1,12 @@
 component	value	evidence_level	evidence_location	status
-input_design	23 samples x 3 deterministic equal-depth subsamples = 69 profiles	PRIMARY	retained run records tasks.tsv, run manifest and outputs	PASS
-read_depth	315147 reads per subsample	PRIMARY	retained run records min_reads.tsv and sample task script	PASS
-subsampling_command	seqkit sample -s <seed> -n 315147 <fastq> | gzip -c	PRIMARY	retained run records run_subsample_task_by_id.sh	PASS
-workflow_command	nextflow run nf-core/taxprofiler -r 1.2.4 -profile apptainer --input <samplesheet> --databases <dbsheet> --outdir <outdir> --run_krakenuniq --run_krona --run_profile_standardisation --max_cpus <n> --max_memory 80.GB --max_time 2.d -resume	PRIMARY	retained run records run script and completed .nextflow.log	PASS
-workflow_version	nf-core/taxprofiler 1.2.4 (revision 1385e2f895); Nextflow 25.04.4	PRIMARY	retained run records .nextflow.log	PASS
+input_design	23 samples x 3 deterministic equal-depth subsamples = 69 profiles	PRIMARY	subsampling_tasks_69seeds_PORTABLE.tsv	PASS
+read_depth	315147 reads per subsample	PRIMARY	subsampling_tasks_69seeds_PORTABLE.tsv	PASS
+subsampling_command	seqkit sample -s <seed> -n 315147 <fastq> | gzip -c	PRIMARY	subsampling_tasks_69seeds_PORTABLE.tsv	PASS
+workflow_command	nextflow run nf-core/taxprofiler -r 1.2.4 -profile apptainer --input <samplesheet> --databases <dbsheet> --outdir <outdir> --run_krakenuniq --run_krona --run_profile_standardisation --max_cpus <n> --max_memory 80.GB --max_time 2.d -resume	PRIMARY	taxprofiler_20260430/pipeline_info/taxprofiler_parameters.json	PASS
+workflow_version	nf-core/taxprofiler 1.2.4 (revision 1385e2f895); Nextflow 25.04.4	PRIMARY	taxprofiler_20260430/pipeline_info/software_versions.yml	PASS
 classifier	KrakenUniq 1.0.4	PRIMARY	TaxProfiler software versions YAML	PASS
-database	krakenuniq_standard at krakenUniq_20220616_standard	PRIMARY	retained run records databases_input.csv	PASS
-composition	Genus-rank classified-read composition: reads at genus divided by sum of genus reads	PRIMARY	retained run records analysis _utils.py	PASS
-unclassified_reads	Excluded from the relative-abundance denominator	PRIMARY	retained run records analysis _utils.py	PASS
-profile_aggregation	Arithmetic mean of relative abundance across three subsamples	PRIMARY	retained run records analysis README/scripts	PASS
-full_library_context	23 full per-sample KrakenUniq standard reports were used to populate the retained read-level HTML context; exact runtime record no longer retained	SECONDARY	retained run records analysis README/run log referencing the completed full-read report directory	PASS_WITH_CAVEAT
+database	krakenuniq_standard at krakenUniq_20220616_standard	PRIMARY	taxprofiler_20260430/database_manifest.tsv	PASS
+composition	Genus-rank classified-read composition: reads at genus divided by sum of genus reads	PRIMARY	02_REPRODUCIBILITY/figure_sources/pcoa/eqdepth_mean23_genus_relative_abundance_matrix.tsv	PASS
+unclassified_reads	Excluded from the relative-abundance denominator	PRIMARY	02_REPRODUCIBILITY/figure_sources/pcoa/eqdepth_mean23_genus_relative_abundance_matrix.tsv	PASS
+profile_aggregation	Arithmetic mean of relative abundance across three subsamples	PRIMARY	02_REPRODUCIBILITY/figure_sources/pcoa/eqdepth_mean23_genus_relative_abundance_matrix.tsv	PASS
+full_library_context	23 full per-sample KrakenUniq standard reports were used to populate the retained read-level HTML context; exact runtime record no longer retained	SECONDARY	taxprofiler_20260430/README.md	PASS_WITH_CAVEAT
