@@ -1,2 +1,2 @@
 tool,db_name,db_params,db_path
-krakenuniq,krakenuniq_standard,,${HPC_DATA_ROOT}/nf-core-mag-libs/krakenUniq_20220616_standard
+krakenuniq,krakenuniq_standard,,<data_root>/nf-core-mag-libs/krakenUniq_20220616_standard
