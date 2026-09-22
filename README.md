@@ -1,7 +1,7 @@
 # Ria Formosa scientific data and figure-reproduction bundle
 
 This repository is a scientific data and reproducibility package. It contains
-the final figure assets, the data used to make them, relevant result tables,
+the retained figure assets, the data used to make them, relevant result tables,
 analysis inputs and portable scripts.
 
 ## Repository map

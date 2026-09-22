@@ -1,8 +1,9 @@
 # Data availability
 
-This repository contains all final figure assets, figure-level source data,
-result tables, scripts, configuration and retained workflow provenance needed
-to regenerate and verify the analyses represented in the bundle.
+This repository contains the retained figure assets (23 final figures and one
+candidate), figure-level source data, result tables, scripts, configuration and
+workflow records needed to regenerate and verify the analyses represented in
+the bundle.
 
 The original 23 merged Oxford Nanopore FASTQ libraries are not included because
 they are large primary-sequencing files. Their portable filename inventory is
@@ -12,7 +13,7 @@ The raw reads must be deposited in, or made available through, an appropriate
 long-term sequencing repository before claiming that a public user can rerun
 the complete workflow from raw reads.
 
-The final figures can be regenerated or verified without those large files,
+The retained figures can be regenerated or verified without those large files,
 because their plotted tables and retained QC outputs are included. Reanalysis
 from raw FASTQs additionally requires:
 
