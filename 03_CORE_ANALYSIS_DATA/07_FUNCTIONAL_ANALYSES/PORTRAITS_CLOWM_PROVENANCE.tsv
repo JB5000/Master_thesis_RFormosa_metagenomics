@@ -5,8 +5,8 @@ clowm_workflow_version	0.2.1	retained workflow metadata	AUTHOR_CONFIRMED	Authori
 clowm_workflow_uuid	01989b88-8e1a-7856-8ec3-6658108b7273	retained workflow metadata	AUTHOR_CONFIRMED	Visible in the workflow-page URL.
 clowm_version_resource_id	945795b5a6577f881c451f292eb3a60d94d33eed	retained workflow metadata	AUTHOR_CONFIRMED	CloWM version resource ID; not a Git commit.
 workflow_code_git_commit	076c8b418c0bc69654d278e70d18f96bb7634f87	TRAIT_PROVENANCE.tsv	PRIMARY	Workflow-code commit recorded in the retained workflow record.
-figure_component_used	GenomeSPOT v1.0.1 component outputs	figure_sources/genomespot	AUTHOR_CONFIRMED+PRIMARY	Environmental-preference figures use GenomeSPOT component outputs.
+figure_component_used	GenomeSPOT v1.0.1 component outputs	TRAIT_PROVENANCE.tsv	AUTHOR_CONFIRMED+PRIMARY	Environmental-preference figures use the retained GenomeSPOT predictions.
 submitted_genomes	33 = 29 MAG29 + 4 CoA4	author confirmation and retained outputs	AUTHOR_CONFIRMED+PRIMARY	
-genomespot_usable_outputs	29/29 MAG29 + 4/4 CoA4	GENOMESPOT_AVAILABILITY.tsv and figure_sources/genomespot	PRIMARY	No values were imputed.
+genomespot_usable_outputs	29/29 MAG29 + 4/4 CoA4	TRAIT_PROVENANCE.tsv	PRIMARY	No values were imputed.
 internal_model_database_release	NOT SEPARATELY RETAINED	retained evidence	ARCHIVAL_LIMITATION	Internal model/database release field absent from retained evidence.
 final_execution_run_id_and_date	NOT CLAIMED	CloWM account	NOT REQUIRED	The supplied screenshot is the workflow version page, not a final run-history record.
