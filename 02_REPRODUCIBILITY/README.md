@@ -9,6 +9,9 @@ through `RIA_FIGURE_OUTPUT`.
 Each retained figure lists its source data and generation script in
 `../ASSET_MANIFEST.tsv`.
 
+`SCRIPT_INDEX.tsv` is the concise inventory of retained generation and
+analysis scripts; the manifest remains the authoritative figure-to-source link.
+
 The original full-depth TaxProfiler QC provenance is retained under
 `../03_CORE_ANALYSIS_DATA/02_READS_AND_QC/taxprofiler_20260430/`. Raw FASTQ
 data are intentionally external to the repository and are described by a
