@@ -2,7 +2,7 @@
 
 This directory preserves the lightweight, primary outputs and configuration of
 the nf-core/taxprofiler run that supplied the full-depth QC metrics used by
-`01_FIGURES/final/Fig_S6_archived_full_depth_read_QC.png`.
+`01_FIGURES/candidate/Fig_S6_archived_full_depth_read_QC.png`.
 
 ## Run identity
 
