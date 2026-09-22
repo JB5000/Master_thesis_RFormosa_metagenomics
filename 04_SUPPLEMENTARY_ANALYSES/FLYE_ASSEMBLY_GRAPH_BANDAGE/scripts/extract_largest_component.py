@@ -63,6 +63,7 @@ def main() -> None:
         component_bp, key=component_bp.get, reverse=True
     )[: args.components]
     keep = set().union(*(component_nodes[root] for root in selected_roots))
+    args.output_gfa.parent.mkdir(parents=True, exist_ok=True)
     with args.input_gfa.open() as source, args.output_gfa.open("w") as output:
         for line in source:
             fields = line.rstrip("\n").split("\t")

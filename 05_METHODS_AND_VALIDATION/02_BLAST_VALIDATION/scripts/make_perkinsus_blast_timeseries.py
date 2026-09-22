@@ -10,4 +10,7 @@ ax.errorbar(x,s.mean_hits,yerr=s.sd_hits,fmt='-o',color='#33547a',ecolor='#33547
 ax.set_xticks(list(x)); ax.set_xticklabels(s['sample'],rotation=90,fontsize=8); ax.set_ylabel('Perkinsus olseni BLAST hits'); ax.set_xlabel('Sample date (S_YY_MM_DD)'); ax.set_ylim(0,(s.mean_hits+s.sd_hits).max()*1.12)
 for sp in ('top','right'): ax.spines[sp].set_visible(False)
 ax.yaxis.grid(True,color='#e6e6e6',lw=.7); ax.set_axisbelow(True); ax.margins(x=.02); fig.tight_layout()
-root.joinpath('figures').mkdir(exist_ok=True); s.to_csv(root/'tables/Perkinsus_olseni_BLAST_hits_timeseries.tsv',sep='\t',index=False); fig.savefig(root/'figures/Perkinsus_olseni_BLAST_hits_timeseries.png',dpi=300)
+root.joinpath('tables').mkdir(parents=True, exist_ok=True)
+root.joinpath('figures').mkdir(parents=True, exist_ok=True)
+s.to_csv(root/'tables/Perkinsus_olseni_BLAST_hits_timeseries.tsv',sep='\t',index=False)
+fig.savefig(root/'figures/Perkinsus_olseni_BLAST_hits_timeseries.png',dpi=300)

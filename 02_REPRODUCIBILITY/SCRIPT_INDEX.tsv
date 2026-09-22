@@ -1,34 +1,35 @@
-script_path\trole\tupstream_analysis\tnotes
-02_REPRODUCIBILITY/scripts/export_blastn_target_screen_results.py\texport BLASTn tables\tBLASTn target screen\tWrites retained RPM, z-score and reference-mapping tables.
-02_REPRODUCIBILITY/scripts/fig_style.py\tshared plotting helpers\tfigure generation\tCommon style and output helpers.
-02_REPRODUCIBILITY/scripts/make_Fig_3.1_workflow.py\tgenerate Figure 3.1\tworkflow metadata\tWorkflow diagram.
-02_REPRODUCIBILITY/scripts/make_Fig_3.2_procrustes.py\tgenerate Figure 3.2\tequal-depth Procrustes\tFull-depth versus equal-depth profiles.
-02_REPRODUCIBILITY/scripts/make_Fig_3.3_separated_panels.py\tgenerate Figure 3.3\tread-level taxonomy\tPhylum panel plus top-10 genus panel and heatmap.
-02_REPRODUCIBILITY/scripts/make_Fig_3.4_bin_recovery.py\tgenerate Figure 3.4\tMAG recovery\tRecovery and quality panels.
-02_REPRODUCIBILITY/scripts/make_Fig_3.5_MAG29_taxonomy.py\tgenerate Figure 3.5\tMAG29 taxonomy\tMAG29 taxonomy tree.
-02_REPRODUCIBILITY/scripts/make_Fig_3.6_MAG29_recruitment.py\tgenerate Figure 3.6\tMAG29 recruitment\tRecruitment heatmap.
-02_REPRODUCIBILITY/scripts/make_Fig_3.7_MAG29_functional.py\tgenerate Figure 3.7\tMAG29 functional annotation\tFunctional annotation heatmap.
-02_REPRODUCIBILITY/scripts/make_Fig_3.8_selected_MAGs.py\tgenerate Figure 3.8\tselected MAG markers\tMarker counts and trait presence.
-02_REPRODUCIBILITY/scripts/make_Fig_3.9_CoA4_functional.py\tgenerate Figure 3.9\tCoA4 functional annotation\tAnnotation-derived counts and FuncScan outputs.
-02_REPRODUCIBILITY/scripts/make_Fig_3.10_CoA4_marker_traits.py\tgenerate Figure 3.10\tCoA4 marker traits\tCurated marker and metabolic-trait panels.
-02_REPRODUCIBILITY/scripts/make_Fig_3.11_CoA4_recruitment.py\tgenerate Figure 3.11\tCoA4 recruitment\tRecruitment heatmap.
-02_REPRODUCIBILITY/scripts/make_Fig_3.12_perkinsus.py\tgenerate Figure 3.12\tBLASTn Perkinsus screen\tBLASTn-derived Perkinsus time series.
-02_REPRODUCIBILITY/scripts/make_Fig_S1_sequencing_effort.py\tgenerate Figure S1\tsequencing effort\tRead and base-yield summaries.
-02_REPRODUCIBILITY/scripts/make_Fig_S2_blastn_target_screen.py\tgenerate Figure S2\tBLASTn target screen\t20-target RPM and row-wise z-score heatmap.
-02_REPRODUCIBILITY/scripts/make_Fig_S3_chronology.py\tgenerate Figure S3\tchronological clade-read analysis\tChronological PCoA and edge list.
-02_REPRODUCIBILITY/scripts/make_Fig_S6_full_depth_read_QC.py\tgenerate candidate Figure S6\tfull-depth read QC\tRetained candidate QC figure.
-04_SUPPLEMENTARY_ANALYSES/FLYE_ASSEMBLY_GRAPH_BANDAGE/scripts/extract_largest_component.py\textract graph component\tFlye assembly graph\tCommand-line GFA component extraction.
-04_SUPPLEMENTARY_ANALYSES/RAREFACTION_GENUS/scripts/analyze_percent_full_depth_recovery.py\tgenerate rarefaction outputs\tgenus rarefaction\tRarefaction values, figure and provenance.
-04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/add_coverage_track.py\tadd coverage track\tSS-07 Proksee map\tAdds source-read depth to CGView JSON.
-04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/build_bakta_and_mimag_variants.py\tbuild map variants\tSS-07 Bakta/MIMAG\tBuilds annotated CGView variants.
-04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/build_curated_markers.py\tbuild curated marker GFF\tSS-07 functional markers\tCreates marker annotation input.
-04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/calculate_SS07_source_read_coverage.sbatch\tcalculate read coverage\tSS-07 source reads\tSlurm alignment and depth workflow.
-04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/export_styled_map.py\texport styled map\tSS-07 Proksee map\tExports SVG/PNG map assets.
-04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/export_variant_maps.py\texport map variants\tSS-07 Proksee map\tExports variant map assets.
-04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/style_cgview_map.py\tstyle CGView map\tSS-07 Proksee map\tApplies reproducible marker styling.
-04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/validate_pilot.py\tvalidate map inputs\tSS-07 Proksee map\tChecks pilot map source records.
-04_SUPPLEMENTARY_ANALYSES/SUMTRAITS_SELECTED_PHENOTYPES/scripts/make_sumtraits_sediment_biogeochemistry_figure.py\tgenerate sumTraits figure\tsumTraits selected phenotypes\tCreates plot, values and diagnostics.
-05_METHODS_AND_VALIDATION/02_BLAST_VALIDATION/scripts/build_blast_db.sbatch\tbuild BLAST database\tBLASTn target screen\tSlurm database construction command.
-05_METHODS_AND_VALIDATION/02_BLAST_VALIDATION/scripts/make_perkinsus_blast_timeseries.py\tgenerate BLASTn time series\tBLASTn target screen\tPerkinsus hit and RPM summaries.
-05_METHODS_AND_VALIDATION/02_BLAST_VALIDATION/scripts/run_blast_array.sbatch\trun BLASTn array\tBLASTn target screen\tSlurm target-screen command.
-05_METHODS_AND_VALIDATION/02_BLAST_VALIDATION/scripts/summarize_blast.py\tsummarize BLASTn hits\tBLASTn target screen\tReplicate and sample-level hit summaries.
+script_path	role	upstream_analysis	notes
+02_REPRODUCIBILITY/scripts/export_blastn_target_screen_results.py	export BLASTn tables	BLASTn target screen	Writes retained RPM, z-score and reference-mapping tables.
+02_REPRODUCIBILITY/scripts/fig_style.py	shared plotting helpers	figure generation	Common style and output helpers.
+02_REPRODUCIBILITY/scripts/make_Fig_3.1_workflow.py	generate Figure 3.1	workflow metadata	Workflow diagram.
+02_REPRODUCIBILITY/scripts/make_Fig_3.2_procrustes.py	generate Figure 3.2	equal-depth Procrustes	Full-depth versus equal-depth profiles.
+02_REPRODUCIBILITY/scripts/make_Fig_3.3_separated_panels.py	generate Figure 3.3	read-level taxonomy	Phylum panel plus top-10 genus panel and heatmap.
+02_REPRODUCIBILITY/scripts/make_Fig_3.4_bin_recovery.py	generate Figure 3.4	MAG recovery	Recovery and quality panels.
+02_REPRODUCIBILITY/scripts/make_Fig_3.5_MAG29_taxonomy.py	generate Figure 3.5	MAG29 taxonomy	MAG29 taxonomy tree.
+02_REPRODUCIBILITY/scripts/make_Fig_3.6_MAG29_recruitment.py	generate Figure 3.6	MAG29 recruitment	Recruitment heatmap.
+02_REPRODUCIBILITY/scripts/make_Fig_3.7_MAG29_functional.py	generate Figure 3.7	MAG29 functional annotation	Functional annotation heatmap.
+02_REPRODUCIBILITY/scripts/make_Fig_3.8_selected_MAGs.py	generate Figure 3.8	selected MAG markers	Marker counts and trait presence.
+02_REPRODUCIBILITY/scripts/make_Fig_3.9_CoA4_functional.py	generate Figure 3.9	CoA4 functional annotation	Annotation-derived counts and FuncScan outputs.
+02_REPRODUCIBILITY/scripts/make_Fig_3.10_CoA4_marker_traits.py	generate Figure 3.10	CoA4 marker traits	Curated marker and metabolic-trait panels.
+02_REPRODUCIBILITY/scripts/make_Fig_3.11_CoA4_recruitment.py	generate Figure 3.11	CoA4 recruitment	Recruitment heatmap.
+02_REPRODUCIBILITY/scripts/make_Fig_3.12_perkinsus.py	generate Figure 3.12	BLASTn Perkinsus screen	BLASTn-derived Perkinsus time series.
+02_REPRODUCIBILITY/scripts/make_Fig_S1_sequencing_effort.py	generate Figure S1	sequencing effort	Read and base-yield summaries.
+02_REPRODUCIBILITY/scripts/make_Fig_S2_blastn_target_screen.py	generate Figure S2	BLASTn target screen	20-target RPM and row-wise z-score heatmap.
+02_REPRODUCIBILITY/scripts/make_Fig_S3_chronology.py	generate Figure S3	chronological clade-read analysis	Chronological PCoA and edge list.
+02_REPRODUCIBILITY/scripts/make_Fig_S6_full_depth_read_QC.py	generate candidate Figure S6	full-depth read QC	Retained candidate QC figure.
+03_CORE_ANALYSIS_DATA/04_ASSEMBLY_BINNING_QC_DREP/drep/FINAL_DREP_COMMAND_REDACTED.sh	record dRep command	MAG dereplication	Portable command record with machine-specific values redacted.
+04_SUPPLEMENTARY_ANALYSES/FLYE_ASSEMBLY_GRAPH_BANDAGE/scripts/extract_largest_component.py	extract graph component	Flye assembly graph	Command-line GFA component extraction.
+04_SUPPLEMENTARY_ANALYSES/RAREFACTION_GENUS/scripts/analyze_percent_full_depth_recovery.py	generate rarefaction outputs	genus rarefaction	Rarefaction values, figure and provenance.
+04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/add_coverage_track.py	add coverage track	SS-07 Proksee map	Adds source-read depth to CGView JSON.
+04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/build_bakta_and_mimag_variants.py	build map variants	SS-07 Bakta/MIMAG	Builds annotated CGView variants.
+04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/build_curated_markers.py	build curated marker GFF	SS-07 functional markers	Creates marker annotation input.
+04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/calculate_SS07_source_read_coverage.sbatch	calculate read coverage	SS-07 source reads	Slurm alignment and depth workflow.
+04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/export_styled_map.py	export styled map	SS-07 Proksee map	Exports SVG/PNG map assets.
+04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/export_variant_maps.py	export map variants	SS-07 Proksee map	Exports variant map assets.
+04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/style_cgview_map.py	style CGView map	SS-07 Proksee map	Applies reproducible marker styling.
+04_SUPPLEMENTARY_ANALYSES/SS07_GENOME_MAP/scripts/validate_pilot.py	validate map inputs	SS-07 Proksee map	Checks pilot map source records.
+04_SUPPLEMENTARY_ANALYSES/SUMTRAITS_SELECTED_PHENOTYPES/scripts/make_sumtraits_sediment_biogeochemistry_figure.py	generate sumTraits figure	sumTraits selected phenotypes	Creates plot, values and diagnostics.
+05_METHODS_AND_VALIDATION/02_BLAST_VALIDATION/scripts/build_blast_db.sbatch	build BLAST database	BLASTn target screen	Slurm database construction command.
+05_METHODS_AND_VALIDATION/02_BLAST_VALIDATION/scripts/make_perkinsus_blast_timeseries.py	generate BLASTn time series	BLASTn target screen	Perkinsus hit and RPM summaries.
+05_METHODS_AND_VALIDATION/02_BLAST_VALIDATION/scripts/run_blast_array.sbatch	run BLASTn array	BLASTn target screen	Slurm target-screen command.
+05_METHODS_AND_VALIDATION/02_BLAST_VALIDATION/scripts/summarize_blast.py	summarize BLASTn hits	BLASTn target screen	Replicate and sample-level hit summaries.

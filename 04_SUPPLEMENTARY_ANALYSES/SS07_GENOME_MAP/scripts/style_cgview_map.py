@@ -77,6 +77,8 @@ def main() -> None:
                 }
             )
 
+    STYLED_JSON.parent.mkdir(parents=True, exist_ok=True)
+    REPORT_JS.parent.mkdir(parents=True, exist_ok=True)
     rendered = json.dumps(data, indent=2)
     STYLED_JSON.write_text(rendered + "\n", encoding="utf-8")
     REPORT_JS.write_text("json = " + json.dumps(data, separators=(",", ":")) + ";\n", encoding="utf-8")
