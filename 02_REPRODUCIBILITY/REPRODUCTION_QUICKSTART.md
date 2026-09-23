@@ -16,7 +16,7 @@ directory, set `RIA_FIGURE_OUTPUT` before running an individual script:
 
 ```bash
 RIA_FIGURE_OUTPUT=/tmp/ria-figures \
-  python 02_REPRODUCIBILITY/scripts/make_Fig_3.12_perkinsus.py
+  python 02_REPRODUCIBILITY/scripts/make_Fig_2.1_methods_workflow.py
 ```
 
 The authoritative input/output relationship for each retained figure is in

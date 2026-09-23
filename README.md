@@ -6,7 +6,7 @@ analysis inputs and portable scripts.
 
 ## Repository map
 
-- `01_FIGURES/final/` — the 23 final PNG figure assets.
+- `01_FIGURES/final/` — the 24 final PNG figure assets.
 - `01_FIGURES/candidate/` — one additional candidate figure, Figure S6,
   retained separately pending final selection.
 - `02_REPRODUCIBILITY/` — figure source matrices, plotted-value tables,
@@ -30,7 +30,7 @@ analysis inputs and portable scripts.
 
 ## Canonical analysis constants
 
-The bundle retains 24 figure assets in total: 23 final figures and one
+The bundle retains 25 figure assets in total: 24 final figures and one
 candidate Figure S6.
 
 - 23 sampling dates; three equal-depth subsets per date; 315,147 reads per

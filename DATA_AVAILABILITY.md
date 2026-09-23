@@ -1,6 +1,6 @@
 # Data availability
 
-This repository contains the retained figure assets (23 final figures and one
+This repository contains the retained figure assets (24 final figures and one
 candidate), figure-level source data, result tables, scripts, configuration and
 workflow records needed to regenerate and verify the analyses represented in
 the bundle.
