@@ -21,6 +21,8 @@ analysis inputs and portable scripts.
   matrices.
 - `ASSET_MANIFEST.tsv` — one row per retained figure or result table, linking it
   to source data and (where applicable) its generation script.
+- `ASSET_MANIFEST_SCHEMA.md` — definitions of the manifest fields and status
+  values.
 - `02_REPRODUCIBILITY/METHOD_COMMANDS.md` — concise commands and parameters
   for the retained analyses.
 - `02_REPRODUCIBILITY/REPRODUCTION_QUICKSTART.md` — minimal environment setup
