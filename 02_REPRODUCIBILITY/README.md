@@ -11,6 +11,8 @@ Each retained figure lists its source data and generation script in
 
 `SCRIPT_INDEX.tsv` is the concise inventory of retained generation and
 analysis scripts; the manifest remains the authoritative figure-to-source link.
+For a minimal setup and regeneration example, see
+`REPRODUCTION_QUICKSTART.md`.
 
 The original full-depth TaxProfiler QC provenance is retained under
 `../03_CORE_ANALYSIS_DATA/02_READS_AND_QC/taxprofiler_20260430/`. Raw FASTQ

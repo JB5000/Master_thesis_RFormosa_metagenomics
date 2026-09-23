@@ -23,6 +23,8 @@ analysis inputs and portable scripts.
   to source data and (where applicable) its generation script.
 - `02_REPRODUCIBILITY/METHOD_COMMANDS.md` — concise commands and parameters
   for the retained analyses.
+- `02_REPRODUCIBILITY/REPRODUCTION_QUICKSTART.md` — minimal environment setup
+  and figure-regeneration example.
 
 ## Canonical analysis constants
 
