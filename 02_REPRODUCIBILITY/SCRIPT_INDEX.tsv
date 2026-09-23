@@ -1,6 +1,7 @@
 script_path	role	upstream_analysis	notes
 02_REPRODUCIBILITY/scripts/export_blastn_target_screen_results.py	export BLASTn tables	BLASTn target screen	Writes retained RPM, z-score and reference-mapping tables.
 02_REPRODUCIBILITY/scripts/fig_style.py	shared plotting helpers	figure generation	Common style and output helpers.
+02_REPRODUCIBILITY/scripts/make_Fig_2.1_methods_workflow.py	generate Figure 2.1	study design and workflow configuration	Laboratory and analytical methods workflow.
 02_REPRODUCIBILITY/scripts/make_Fig_3.1_workflow.py	generate Figure 3.1	workflow metadata	Workflow diagram.
 02_REPRODUCIBILITY/scripts/make_Fig_3.2_procrustes.py	generate Figure 3.2	equal-depth Procrustes	Full-depth versus equal-depth profiles.
 02_REPRODUCIBILITY/scripts/make_Fig_3.3_separated_panels.py	generate Figure 3.3	read-level taxonomy	Phylum panel plus top-10 genus panel and heatmap.
