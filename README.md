@@ -23,6 +23,8 @@ analysis inputs and portable scripts.
   to source data and (where applicable) its generation script.
 - `ASSET_MANIFEST_SCHEMA.md` — definitions of the manifest fields and status
   values.
+- `STORAGE_RETENTION_AND_PROVENANCE.md` — retention gates for external raw
+  reads, MAG workflow trees and large intermediate outputs.
 - `02_REPRODUCIBILITY/METHOD_COMMANDS.md` — concise commands and parameters
   for the retained analyses.
 - `02_REPRODUCIBILITY/REPRODUCTION_QUICKSTART.md` — minimal environment setup
